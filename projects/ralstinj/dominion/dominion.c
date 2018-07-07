@@ -655,7 +655,6 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
 
   int tributeRevealedCards[2] = {-1, -1};
   int temphand[MAX_HAND];// moved above the if statement
-  int drawntreasure=0;
   int cardDrawn = 0;
   int result;
   int z = 0;// this is the counter for the temp hand
@@ -669,7 +668,7 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
     {
     case adventurer:
 	  
-		result = playAdventurer(drawntreasure, z, state, currentPlayer, cardDrawn, temphand);
+		result = playAdventurer(z, state, currentPlayer, cardDrawn, temphand);
 	
 		return result;
 	
@@ -1243,7 +1242,9 @@ int updateCoins(int player, struct gameState *state, int bonus)
   return 0;
 }
 
-int playAdventurer(int drawntreasure, int z, struct gameState *state, int currentPlayer, int cardDrawn, int *temphand){
+int playAdventurer(int z, struct gameState *state, int currentPlayer, int cardDrawn, int *temphand){
+	
+	int drawntreasure=0;
 	
 	while(drawntreasure<2){
 		
@@ -1284,7 +1285,7 @@ int playSmithy(int currentPlayer, struct gameState *state, int handPos){
 	int i;
 	
 	//+3 Cards
-	for (i = 0; i < 3; i++)
+	for (i = 0; i < 3; i--)//creating bug by decrementing i instead of incrementing i
 	{
 		drawCard(currentPlayer, state);
 	}
@@ -1301,7 +1302,7 @@ int playSeaHag(int currentPlayer, struct gameState *state){
 	
 	for (i = 0; i < state->numPlayers; i++){
 		
-		if (i != currentPlayer){
+		if (i == currentPlayer){//creating bug in SeaHag by changing logic operator from "!=" to "=="
 		
 			state->discard[i][state->discardCount[i]] = state->deck[i][state->deckCount[i]--];
 			state->deckCount[i]--;
@@ -1374,7 +1375,7 @@ int playSteward(struct gameState *state, int currentPlayer, int handPos, int cho
 		drawCard(currentPlayer, state);
 		drawCard(currentPlayer, state);
 		
-	}else if (choice1 == 2){
+	}else if (choice1 == 1){//creating bug in steward by switching checked value from 2 to 1, now option two will always execute the else part of the statement and operate like option 3
 		//+2 coins
 		state->coins = state->coins + 2;
 	}else{
