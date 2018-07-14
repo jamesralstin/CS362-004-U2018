@@ -228,8 +228,8 @@ int shuffle(int player, struct gameState *state) {
   return 0;
 }
 
-int playCard(int handPos, int choice1, int choice2, int choice3, struct gameState *state) 
-{	
+int playCard(int handPos, int choice1, int choice2, int choice3, struct gameState *state){	
+  
   int card;
   int coin_bonus = 0; 		//tracks coins gain from actions
 
@@ -1177,7 +1177,7 @@ int discardCard(int handPos, int currentPlayer, struct gameState *state, int tra
 
 int gainCard(int supplyPos, struct gameState *state, int toFlag, int player)
 {
-  //Note: supplyPos is enum of choosen card
+  //Note: supplyPos is enum of chosen card
 	
   //check if supply pile is empty (0) or card is not used in game (-1)
   if ( supplyCount(supplyPos, state) < 1 )
