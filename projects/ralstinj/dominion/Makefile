@@ -6,6 +6,15 @@ rngs.o: rngs.h rngs.c
 dominion.o: dominion.h dominion.c rngs.o
 	gcc -c dominion.c -g  $(CFLAGS)
 
+Assert.o: Assert.h Assert.c
+	gcc -c Assert.c -g  $(CFLAGS)
+
+unittest1: dominion.o rngs.o Assert.o unittest1.c
+	gcc -o unittest1 unittest1.c -g dominion.o rngs.o Assert.o $(CFLAGS)
+	
+unittest2: dominion.o rngs.o Assert.o unittest2.c
+	gcc -o unittest2 unittest2.c -g dominion.o rngs.o Assert.o $(CFLAGS)
+
 playdom: dominion.o playdom.c
 	gcc -o playdom playdom.c -g dominion.o rngs.o $(CFLAGS)
 #To run playdom you need to entere: ./playdom <any integer number> like ./playdom 10*/
@@ -29,11 +38,15 @@ runtests: testDrawCard
 	gcov dominion.c >> unittestresult.out
 	cat dominion.c.gcov >> unittestresult.out
 
+runtests2: unittest1
+	./unittest1 &> unittestresult.out
+	gcov dominion.c >> unittestresult.out
+	cat dominion.c.gcov >> unittestresult.out
 
 player: player.c interface.o
 	gcc -o player player.c -g  dominion.o rngs.o interface.o $(CFLAGS)
 
-all: playdom player 
+all: playdom player unittest1 unittest2
 
 clean:
 	rm -f *.o playdom.exe playdom player player.exe  *.gcov *.gcda *.gcno *.so *.out testDrawCard testDrawCard.exe

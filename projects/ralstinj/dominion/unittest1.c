@@ -8,8 +8,8 @@
 * Term: Summer 2018
 *
 * Must include the following in the make file
-* unittest1: unittest1.c dominion.o rngs.o
-*      gcc -o unittest1 -g  unittest1.c dominion.o rngs.o $(CFLAGS)
+* unittest1: unittest1.c dominion.o rngs.o Assert.o
+*      gcc -o unittest1 -g  unittest1.c dominion.o rngs.o Assert.o $(CFLAGS)
 * -----------------------------------------------------------------------
 */
 
@@ -19,7 +19,6 @@
 #include "dominion_helpers.h"
 #include "rngs.h"
 #include <string.h>
-#include <assert.h>
 #include "Assert.h"
 
 int testCardNotDealt(struct gameState *G, int player){
@@ -29,10 +28,12 @@ int testCardNotDealt(struct gameState *G, int player){
 	
 	printf("|---------------------------------UNIT TEST 1.1: Verify error on card not dealt (i.e. supply count = -1)---------------------------------|\n\n");
 	
+	//Pass card that was not a part of the initialized kingdom cards i.e. "steward"
 	returnedVal = gainCard(18, G, toFlag, player);
 	
 	printf("Test scenario card not dealt \"steward\" position 18 in supply count, value equal to: %d\n\nExpected value from \"gainCard\": -1\nActual value from \"gainCards\": %d\n",G->supplyCount[18], returnedVal);
 	
+	//Verify returned value was -1
 	Assert(returnedVal,-1,"==");
 	printf("\n");
 	
@@ -46,14 +47,15 @@ int testCardSupplyEmpty(struct gameState *G, int player){
 	
 	printf("|---------------------------------UNIT TEST 1.2: Verify error on card supply empty (i.e. supply count = 0)-------------------------------|\n\n");
 	
+	//Setting supply of a card to 0 to then verify the returned value is -1
 	printf("Setting curse = 0\n\n");
-	
 	G->supplyCount[0] = 0;
 	
 	returnedVal = gainCard(0, G, toFlag, player);
 	
 	printf("Test scenario \"curse\" card supply empty, position 0 in supply count, value equal to: %d\n\nExpected value from \"gainCard\": -1\nActual value from \"gainCards\": %d\n",G->supplyCount[0], returnedVal);
 	
+	//Verify the returned value was -1
 	Assert(returnedVal,-1,"==");
 	printf("\n");
 	
@@ -69,6 +71,7 @@ void testGainCard(struct gameState *G, int player){
 	
 	printf("|---------------------------------UNIT TEST 1.3: Verify gain card to discard, deck, and hand---------------------------------------------|\n\n");
 	
+	//For each of the card locations of hand, deck, and discard, use any card with a supply count greater than 0, i.e. kingdom card adventurer
 	for(i = 0; i < 3; i++){
 		
 		initialSupply = G->supplyCount[7];
@@ -135,19 +138,22 @@ void testGainCard(struct gameState *G, int player){
 
 int main (){
 
+	//initialize game
 	struct gameState testState;
 	int seed = 500;
 	int numPlayers = 2;
 	int k[10] = {adventurer, council_room, feast, gardens, mine, remodel, smithy, village, baron, sea_hag};
-	int result, i, j;
+	int result;
 
 	memset(&testState, 0, sizeof(struct gameState));
 	
 	result = initializeGame(numPlayers, k, seed, &testState);
 
+	//Print header for test
 	printf("\n|------------------------------------------------------------------UNIT TEST 1: \"gainCard\" START------------------------------------------------------------------|\n");
 	printf("\n**Initialized values for game\n**Kingdom Cards: adventurer, council_room, feast, gardens, mine, remodel, smithy, village, baron, sea_hag\n**Number of players: %d\n**Seed: %d\n\n", testState.numPlayers, seed);
 	
+	//Testing the results for card that was never dealt, should return error
 	result = testCardNotDealt(&testState, 0);
 	
 	result = testCardSupplyEmpty(&testState, 0);
@@ -155,6 +161,6 @@ int main (){
 	testGainCard(&testState, 0);
 	
 	printf("\n|------------------------------------------------------------------UNIT TEST 1: \"gainCard\" FINISH-----------------------------------------------------------------|\n\n");
-
+	
 return 0;
 }
