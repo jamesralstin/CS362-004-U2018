@@ -92,9 +92,6 @@ int main (){
 	memset(&testState, 0, sizeof(struct gameState));
 	
 	result = initializeGame(numPlayers, k, seed, &testState);
-
-	printf("Player 1 %d, player 2 %d", testState.deckCount[0],testState.deckCount[1]);
-	printf("Player 1 %d, player 2 %d", testState.handCount[0],testState.handCount[1]);
 	
 	//Print header for test
 	printf("\n|------------------------------------------------------------------UNIT TEST 3: \"fullDeckCount\" START------------------------------------------------------------------|\n");
@@ -103,7 +100,7 @@ int main (){
 	result = testFullDeckCount(&testState);
 	
 	//Print test complete
-	printf("\n|------------------------------------------------------------------UNIT TEST 3: \"gainCard\" FINISH-----------------------------------------------------------------|\n\n");
+	printf("\n|------------------------------------------------------------------UNIT TEST 3: \"fullDeckCount\" FINISH-----------------------------------------------------------------|\n\n");
 	
 return 0;
 }
