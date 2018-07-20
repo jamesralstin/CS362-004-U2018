@@ -20,6 +20,7 @@
 #include "dominion_helpers.h"
 #include "rngs.h"
 #include <string.h>
+#include <assert.h>
 
 int testLastPositionCardPlayed(struct gameState *G, int player){
 	
@@ -68,12 +69,12 @@ int testLastPositionCardPlayed(struct gameState *G, int player){
 	//Verify decrement of handCount
 	Assert(compareHandCount, G->handCount[player], ">");
 	
-	return 0;
+	return result;
 }
 
 int testLastCardInHand(struct gameState *G, int player){
 	
-	int i, result;
+	int result, i;
 	int position = 0;
 	int trashFlag = 0;
 	int compareCard, comparePlayedCardCount;
@@ -88,8 +89,6 @@ int testLastCardInHand(struct gameState *G, int player){
 	
 	compareCard = G->hand[player][position];
 	comparePlayedCardCount = G->playedCardCount;
-	
-	//for(i=0;i<5;i++){printf("Position %d, card %d\n",i,G->hand[player][i]);}
 	
 	result = discardCard(position, player, G, trashFlag);
 	
@@ -126,7 +125,7 @@ int testLastCardInHand(struct gameState *G, int player){
 	//Verify decrement of handCount
 	Assert(1, G->handCount[player], ">");
 	
-	return 0;
+	return result;
 }
 
 //Not last position in hand array and not last card in hand
@@ -182,7 +181,7 @@ int testNotAnyLast(struct gameState *G, int player){
 	Assert(-1, G->hand[player][3], "==");
 	Assert(compareLastCard, G->hand[player][position], "==");
 	
-	return 0;
+	return result;
 }
 
 int main (){
@@ -192,12 +191,14 @@ int main (){
 	int seed = 450;
 	int numPlayers = 2;
 	int k[10] = {adventurer, council_room, feast, gardens, mine, remodel, smithy, village, baron, sea_hag};
-	int result, i;
+	int result;
 	int player = 0;
 
 	memset(&testState, 0, sizeof(struct gameState));
 	
 	result = initializeGame(numPlayers, k, seed, &testState);
+	
+	
 	
 	printf("\n|------------------------------------------------------------------UNIT TEST 2: \"discardCard\" START------------------------------------------------------------------|\n");
 	printf("\n**Initialized values for game\n**Kingdom Cards: adventurer, council_room, feast, gardens, mine, remodel, smithy, village, baron, sea_hag\n**Number of players: %d\n**Seed: %d\n\n", testState.numPlayers, seed);
@@ -212,6 +213,8 @@ int main (){
 	result = initializeGame(numPlayers, k, seed, &testState);
 	
 	result = testNotAnyLast(&testState, player);
+	
+	assert(result == 0);
 	
 	printf("\n|------------------------------------------------------------------UNIT TEST 2: \"discardCard\" FINISH-----------------------------------------------------------------|\n\n");
 	

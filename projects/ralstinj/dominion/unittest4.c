@@ -20,7 +20,7 @@
 #include "rngs.h"
 #include <string.h>
 #include "Assert.h"
-
+#include <assert.h>
 
 void testGetCost(struct gameState *G){
 	
@@ -35,84 +35,111 @@ void testGetCost(struct gameState *G){
 		switch( i ) 
 		{
 			case curse:
+			  printf("Testing curse card. ");
 			  Assert(result, 0, "==");
 			  break;
 			case estate:
+			  printf("Testing estate card. ");
 			  Assert(result, 2, "==");
 			  break;
 			case duchy:
+			  printf("Testing duchy card. ");
 			  Assert(result, 5, "==");
 			  break;
 			case province:
+			  printf("Testing province card. ");
 			  Assert(result, 8, "==");
 			  break;
 			case copper:
+			  printf("Testing copper card. ");
 			  Assert(result, 0, "==");
 			  break;
 			case silver:
+			  printf("Testing silver card. ");
 			  Assert(result, 3, "==");
 			  break;
 			case gold:
+			  printf("Testing gold card. ");
 			  Assert(result, 6, "==");
 			  break;
 			case adventurer:
+			  printf("Testing adventurer card. ");
 			  Assert(result, 6, "==");
 			  break;
 			case council_room:
+			  printf("Testing council_room card. ");
 			  Assert(result, 5, "==");
 			  break;
 			case feast:
+			  printf("Testing feast card. ");
 			  Assert(result, 4, "==");
 			  break;
 			case gardens:
+			  printf("Testing gardens card. ");
 			  Assert(result, 4, "==");
 			  break;
 			case mine:
+			  printf("Testing mine card. ");
 			  Assert(result, 5, "==");
 			  break;
 			case remodel:
+			  printf("Testing remodel card. ");
 			  Assert(result, 4, "==");
 			  break;
 			case smithy:
+			  printf("Testing smithy card. ");
 			  Assert(result, 4, "==");
 			  break;
 			case village:
+			  printf("Testing village card. ");
 			  Assert(result, 3, "==");
 			  break;
 			case baron:
+			  printf("Testing baron card. ");
 			  Assert(result, 4, "==");
 			  break;
 			case great_hall:
+			  printf("Testing great hall card. ");
 			  Assert(result, 3, "==");
 			  break;
 			case minion:
+			  printf("Testing minion card. ");
 			  Assert(result, 5, "==");
 			  break;
 			case steward:
+			  printf("Testing steward card. ");
 			  Assert(result, 3, "==");
 			  break;
 			case tribute:
+			  printf("Testing tribute card. ");
 			  Assert(result, 5, "==");
 			  break;
 			case ambassador:
+			  printf("Testing ambassador card. ");
 			  Assert(result, 3, "==");
 			  break;
 			case cutpurse:
+			  printf("Testing cutpurse card. ");
 			  Assert(result, 4, "==");
 			  break;
 			case embargo:
+			  printf("Testing embargo card. ");
 			  Assert(result, 2, "==");
 			  break;
 			case outpost:
+			  printf("Testing outpost card. ");
 			  Assert(result, 5, "==");
 			  break;
 			case salvager:
+			  printf("Testing salvager card. ");
 			  Assert(result, 4, "==");
 			  break;
 			case sea_hag:
+			  printf("Testing sea hag card. ");
 			  Assert(result, 4, "==");
 			  break;
 			case treasure_map:
+			  printf("Testing treasure map card. ");
 			  Assert(result, 4, "==");
 			  break;
 		}
@@ -143,7 +170,7 @@ int main (){
 	memset(&testState, 0, sizeof(struct gameState));
 	
 	result = initializeGame(numPlayers, k, seed, &testState);
-	
+	assert(result == 0);
 	//Print header for test
 	printf("\n|------------------------------------------------------------------UNIT TEST 4: \"getCost\" START------------------------------------------------------------------|\n");
 	printf("\n**Initialized values for game\n**Kingdom Cards: adventurer, council_room, feast, gardens, mine, remodel, smithy, village, baron, sea_hag\n**Number of players: %d\n**Seed: %d\n\n", testState.numPlayers, seed);
@@ -151,7 +178,7 @@ int main (){
 	testGetCost(&testState);
 	
 	//Print test complete
-	printf("\n|------------------------------------------------------------------UNIT TEST 4: \"getCard\" FINISH-----------------------------------------------------------------|\n\n");
+	printf("\n|------------------------------------------------------------------UNIT TEST 4: \"getCost\" FINISH-----------------------------------------------------------------|\n\n");
 	
 return 0;
 }

@@ -20,6 +20,7 @@
 #include "rngs.h"
 #include <string.h>
 #include "Assert.h"
+#include <assert.h>
 
 int testCardNotDealt(struct gameState *G, int player){
 	
@@ -59,7 +60,9 @@ int testCardSupplyEmpty(struct gameState *G, int player){
 	Assert(returnedVal,-1,"==");
 	printf("\n");
 	
-	return 0;
+	returnedVal = 0;
+	
+	return returnedVal;
 }
 
 void testGainCard(struct gameState *G, int player){
@@ -133,7 +136,7 @@ void testGainCard(struct gameState *G, int player){
 		Assert(initialSupply-1, G->supplyCount[7], "==");
 		
 	}
-	
+	assert(returnVal == 0);
 }
 
 int main (){
@@ -161,6 +164,8 @@ int main (){
 	testGainCard(&testState, 0);
 	
 	printf("\n|------------------------------------------------------------------UNIT TEST 1: \"gainCard\" FINISH-----------------------------------------------------------------|\n\n");
+	
+	assert(result == 0);
 	
 return 0;
 }

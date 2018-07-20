@@ -20,6 +20,7 @@
 #include "rngs.h"
 #include <string.h>
 #include "Assert.h"
+#include <assert.h>
 
 int testFullDeckCount(struct gameState *G){
 	
@@ -101,6 +102,8 @@ int main (){
 	
 	//Print test complete
 	printf("\n|------------------------------------------------------------------UNIT TEST 3: \"fullDeckCount\" FINISH-----------------------------------------------------------------|\n\n");
+	
+	assert(result == 0);
 	
 return 0;
 }
