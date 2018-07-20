@@ -21,26 +21,166 @@
 #include "rngs.h"
 #include <string.h>
 
-int testTrashCard(struct gameState *G, int player){
+int testLastPositionCardPlayed(struct gameState *G, int player){
 	
-	int result, trashFlag, initialPlayedCardCount, handPos;
-	trashFlag = 0;
+	int trashFlag = 0;
+	int result;
+	int position = 4;//First compare for last card in 
+	int compareCard, comparePlayedCardCount, compareHandCount;
 	
-	printf("|---------------------------------UNIT TEST 2.1: Verify card not played if trashed-------------------------------|\n\n");
+	//For comparing cards in their new destinations i.e. discount piles
+	compareCard = G->hand[player][position];
+	comparePlayedCardCount = G->playedCardCount;
+	compareHandCount = G->handCount[player];
 	
+	//Not trashed
+	result = discardCard(position, player, G, trashFlag);
 	
+	printf("|---------------------------------UNIT TEST 2.1: Last position played, not trashed--------------------------------|\n\n");
 	
-	for(handPos = 0; handPos < 5; handPos++){
+	//Verify card was moved from hand to playedCard
+	Assert(compareCard, G->playedCards[G->playedCardCount - 1], "==");
+	Assert(-1, G->hand[player][position], "==");
+	
+	//Validate increment of playedCardCount
+	Assert(comparePlayedCardCount, G->playedCardCount, "<");
+	
+	//Verify decrement of handCount
+	Assert(compareHandCount, G->handCount[player], ">");
+	
+	printf("\n|---------------------------------UNIT TEST 2.2: Last position played, trashed------------------------------------|\n\n");
+	
+	position = 3;
+	trashFlag = 1;
+	
+	compareCard = G->hand[player][position];
+	comparePlayedCardCount = G->playedCardCount;
+	compareHandCount = G->handCount[player];
+	
+	result = discardCard(position, player, G, trashFlag);
+	
+	//Verify card was removed from hand
+	Assert(-1, G->hand[player][position], "==");
+	
+	//Validate played card count was not incremented
+	Assert(comparePlayedCardCount, G->playedCardCount, "==");
+	
+	//Verify decrement of handCount
+	Assert(compareHandCount, G->handCount[player], ">");
+	
+	return 0;
+}
+
+int testLastCardInHand(struct gameState *G, int player){
+	
+	int i, result;
+	int position = 0;
+	int trashFlag = 0;
+	int compareCard, comparePlayedCardCount;
+	
+	for(i = 5; i > 0; i--){
 		
-		//printf("Hand Position is %d, Hand count is %d\n\n", handPos,G->handCount[player]);
-		
-		initialPlayedCardCount = G->playedCardCount;
-		result = discardCard(handPos, player, G, trashFlag);
-		result = Assert(initialPlayedCardCount + 1, G->playedCardCount, "==");
-		
-		if((handPos == G->handCount[player] - 1) || (G->handCount[player] == 1)){result = Assert(G->hand[player][handPos], -1, "==");}
+		G->hand[player][i] = -1;
 		
 	}
+	
+	G->handCount[player] = 1;
+	
+	compareCard = G->hand[player][position];
+	comparePlayedCardCount = G->playedCardCount;
+	
+	//for(i=0;i<5;i++){printf("Position %d, card %d\n",i,G->hand[player][i]);}
+	
+	result = discardCard(position, player, G, trashFlag);
+	
+	printf("\n|---------------------------------UNIT TEST 2.3: Last card in hand, not trashed-----------------------------------|\n\n");
+	
+	//Verify card was moved from hand to playedCard
+	Assert(compareCard, G->playedCards[G->playedCardCount - 1], "==");
+	Assert(-1, G->hand[player][position], "==");
+	
+	//Validate increment of playedCardCount
+	Assert(comparePlayedCardCount, G->playedCardCount, "<");
+	
+	//Verify decrement of handCount
+	Assert(1, G->handCount[player], ">");
+	
+	printf("\n|---------------------------------UNIT TEST 2.4: Last card in hand, trashed---------------------------------------|\n\n");
+	
+	//reinitialize variables
+	trashFlag = 1;
+	G->handCount[player] = 1;
+	G->hand[player][position] = 4;
+	
+	compareCard = G->hand[player][position];
+	comparePlayedCardCount = G->playedCardCount;
+	
+	result = discardCard(position, player, G, trashFlag);
+	
+	//Verify card was removed from hand
+	Assert(-1, G->hand[player][position], "==");
+	
+	//Validate played card count was not incremented
+	Assert(comparePlayedCardCount, G->playedCardCount, "==");
+	
+	//Verify decrement of handCount
+	Assert(1, G->handCount[player], ">");
+	
+	return 0;
+}
+
+//Not last position in hand array and not last card in hand
+int testNotAnyLast(struct gameState *G, int player){
+	
+	int trashFlag = 0;
+	int position = 2;
+	int result, compareLastCard, compareCard, comparePlayedCardCount, compareHandCount;
+	
+	//For comparing cards in their new destinations i.e. discard pile
+	compareCard = G->hand[player][position];
+	comparePlayedCardCount = G->playedCardCount;
+	compareHandCount = G->handCount[player];
+	compareLastCard = G->hand[player][4];
+	
+	//Not trashed
+	result = discardCard(position, player, G, trashFlag);
+	
+	printf("\n|---------------------------------UNIT TEST 2.5: Not last position, not last card in hand, not trashed------------|\n\n");
+	
+	//Verify card was moved from hand to playedCard
+	Assert(compareCard, G->playedCards[G->playedCardCount - 1], "==");
+	
+	//Validate increment of playedCardCount
+	Assert(comparePlayedCardCount, G->playedCardCount, "<");
+	
+	//Verify decrement of handCount
+	Assert(compareHandCount, G->handCount[player], ">");
+	
+	//Verify last card has been removed and then placed in the now empty position of array
+	Assert(-1, G->hand[player][4], "==");
+	Assert(compareLastCard, G->hand[player][position], "==");
+	
+	printf("\n|---------------------------------UNIT TEST 2.6: Not last position, not last card in hand, trashed----------------|\n\n");
+	
+	trashFlag = 1;
+	
+	compareCard = G->hand[player][position];
+	comparePlayedCardCount = G->playedCardCount;
+	compareHandCount = G->handCount[player];
+	compareLastCard = G->hand[player][3];
+	
+	//Trashed
+	result = discardCard(position, player, G, trashFlag);
+	
+	//Validate played card count was not incremented
+	Assert(comparePlayedCardCount, G->playedCardCount, "==");
+	
+	//Verify decrement of handCount
+	Assert(compareHandCount, G->handCount[player], ">");
+	
+	//Verify last card has been removed and then placed in the now empty position of array
+	Assert(-1, G->hand[player][3], "==");
+	Assert(compareLastCard, G->hand[player][position], "==");
 	
 	return 0;
 }
@@ -49,7 +189,7 @@ int main (){
 
 	//initialize game
 	struct gameState testState;
-	int seed = 350;
+	int seed = 450;
 	int numPlayers = 2;
 	int k[10] = {adventurer, council_room, feast, gardens, mine, remodel, smithy, village, baron, sea_hag};
 	int result, i;
@@ -63,8 +203,15 @@ int main (){
 	printf("\n**Initialized values for game\n**Kingdom Cards: adventurer, council_room, feast, gardens, mine, remodel, smithy, village, baron, sea_hag\n**Number of players: %d\n**Seed: %d\n\n", testState.numPlayers, seed);
 	
 	
-	result = testTrashCard(&testState, player);
+	result = testLastPositionCardPlayed(&testState, player);
 	
+	result = testLastCardInHand(&testState, player);
+	
+	//Reinitialize state of game
+	memset(&testState, 0, sizeof(struct gameState));
+	result = initializeGame(numPlayers, k, seed, &testState);
+	
+	result = testNotAnyLast(&testState, player);
 	
 	printf("\n|------------------------------------------------------------------UNIT TEST 2: \"discardCard\" FINISH-----------------------------------------------------------------|\n\n");
 	
