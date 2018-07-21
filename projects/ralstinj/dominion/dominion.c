@@ -1285,7 +1285,7 @@ int playSmithy(int currentPlayer, struct gameState *state, int handPos){
 	int i;
 	
 	//+3 Cards
-	for (i = 0; i < 3; i++)//creating bug by decrementing i instead of incrementing i // had to remove bug in order to complete assignment 3, function in original state where i increments instead of decrements
+	for (i = 0; i < 2; i++)//creating bug by decrementing i instead of incrementing i // had to remove bug in order to complete assignment 3, function in original state where i increments instead of decrements, added new more detectable bug where only 2 cards are drawn
 	{
 		drawCard(currentPlayer, state);
 	}
