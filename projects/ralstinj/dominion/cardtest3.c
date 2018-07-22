@@ -43,7 +43,7 @@ void testSteward(struct gameState *G, int numPlayers, int handPos){
 	printf("Verify deck count decreased by 2, expected value %d, actual value %d\n", prePlay.deckCount[0]-2, G->deckCount[0]);
 	Assert(prePlay.deckCount[0] - 2, G->deckCount[0], "==");
 	printf("Verify played card count increased by 1, expected value %d, actual value %d\n", prePlay.playedCardCount + 1, G->playedCardCount);
-	Assert(prePlay.playedCardCount + 2, G->playedCardCount, "==");
+	Assert(prePlay.playedCardCount + 1, G->playedCardCount, "==");
 	printf("Verify played card pile top card is steward, expected value 18, actual value %d\n", G->playedCards[G->playedCardCount-1]);
 	Assert(steward, G->playedCards[G->playedCardCount-1], "==");
 	printf("Verify no change to coins, expected value %d, actual value %d\n", prePlay.coins,G->coins);
@@ -69,7 +69,7 @@ void testSteward(struct gameState *G, int numPlayers, int handPos){
 	printf("Verify hand count decreased by 1, expected value %d, actual value %d\n", prePlay.handCount[0] - 1, G->handCount[0]);
 	Assert(prePlay.handCount[0] - 1, G->handCount[0], "==");
 	printf("Verify no change to deck count, expected value %d, actual value %d\n", prePlay.deckCount[0], G->deckCount[0]);
-	Assert(prePlay.deckCount[0] - 2, G->deckCount[0], "==");
+	Assert(prePlay.deckCount[0], G->deckCount[0], "==");
 	printf("Verify played card count increased by 1, expected value %d, actual value %d\n", prePlay.playedCardCount + 1, G->playedCardCount);
 	Assert(prePlay.playedCardCount + 1, G->playedCardCount, "==");
 	printf("Verify played card pile top card is steward, expected value 18, actual value %d\n", G->playedCards[G->playedCardCount-1]);
