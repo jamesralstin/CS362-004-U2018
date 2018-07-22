@@ -82,19 +82,50 @@ void testSteward(struct gameState *G, int numPlayers, int handPos){
 	//Need to initialize a sensible hand in order to verify function choice 3
 	choice1 = 3;
 	handPos = 4;
+	choice2 = 0;
+	choice3 = 1;
 	
-	G->hand[0][3] = estate;
+	G->hand[0][0] = estate;
+	G->hand[0][1] = copper;
+	G->hand[0][2] = silver;
+	G->hand[0][3] = duchy;
 	G->hand[0][handPos] = steward;
+	G->handCount[0] = 5;
 	G->supplyCount[estate]--;
+	G->supplyCount[duchy]--;
+	G->supplyCount[copper]--;
+	G->supplyCount[silver]--;
 	G->supplyCount[steward]--;
+	
+	int i;
+	
+	memcpy(&prePlay, G, sizeof(struct gameState));//State of game before steward played
+
+	result = playSteward(G, 0, handPos, choice1, choice2, choice3);
+	assert(result == 0);
+	
+	printf("Verify hand count decreased by 3, expected value %d, actual value %d\n", prePlay.handCount[0] - 3, G->handCount[0]);
+	Assert(prePlay.handCount[0] - 3, G->handCount[0], "==");
+	printf("Verify played card count increased by 1, expected value %d, actual value %d\n", prePlay.playedCardCount + 1, G->playedCardCount);
+	Assert(prePlay.playedCardCount + 1, G->playedCardCount, "==");
+	printf("Verify played card pile top card is steward, expected value 18, actual value %d\n", G->playedCards[G->playedCardCount-1]);
+	Assert(steward, G->playedCards[G->playedCardCount-1], "==");
+	
+	printf("Verify trashed cards have been removed\n");
+	for(i = 0; i < G->handCount[0]; i++){
+		Assert(copper, G->hand[0][i], "!=");
+		Assert(estate, G->hand[0][i], "!=");
+	}
+	
+	//Looks like discardCard steward should happen first thing within the playSteward function, causes wrong card to be placed on the played card pile
 	
 }
 
 int main (){
 
 	//initialize game
-	struct gameState testState, prePlay;
-	int seed = 900;
+	struct gameState testState;
+	int seed = 850;
 	int numPlayers = 2;
 	int k[10] = {adventurer, council_room, feast, gardens, mine, remodel, smithy, village, baron, sea_hag};
 	int result, handPos;

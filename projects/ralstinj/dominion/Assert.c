@@ -54,6 +54,16 @@ int Assert(int val1, int val2, char op[3]){
 			fflush(stdout);
 		}
 		
+	}else if(strcmp("!=", op) == 0){
+		
+		if(val1 != val2){
+			printf("TEST PASS, %d IS NOT EQUAL TO %d\n", val1, val2);
+			fflush(stdout);
+		}else{
+			printf("TEST FAIL, %d IS EQUAL TO %d\n",val1, val2);
+			fflush(stdout);
+		}
+		
 	}
 
 return 0;
