@@ -1,3 +1,393 @@
+
+|------------------------------------------------------------------UNIT TEST 1: "gainCard" START------------------------------------------------------------------|
+
+**Initialized values for game
+**Kingdom Cards: adventurer, council_room, feast, gardens, mine, remodel, smithy, village, baron, sea_hag
+**Number of players: 2
+**Seed: 500
+
+|---------------------------------UNIT TEST 1.1: Verify error on card not dealt (i.e. supply count = -1)---------------------------------|
+
+Test scenario card not dealt "steward" position 18 in supply count, value equal to: -1
+
+Expected value from "gainCard": -1
+Actual value from "gainCards": -1
+TEST PASS, -1 AND -1 ARE EQUAL
+
+|---------------------------------UNIT TEST 1.2: Verify error on card supply empty (i.e. supply count = 0)-------------------------------|
+
+Setting curse = 0
+
+Test scenario "curse" card supply empty, position 0 in supply count, value equal to: 0
+
+Expected value from "gainCard": -1
+Actual value from "gainCards": -1
+TEST PASS, -1 AND -1 ARE EQUAL
+
+|---------------------------------UNIT TEST 1.3: Verify gain card to discard, deck, and hand---------------------------------------------|
+
+Add "adventurer" to discard
+Initial discard size 0, expected new discard size 1, actual new discard size 1
+TEST PASS, 1 AND 1 ARE EQUAL
+
+Added card to discard expected value: 7, actual value: 7
+TEST PASS, 7 AND 7 ARE EQUAL
+
+Remove adventurer card from supply, original count: 10, expected value: 9, actual value 9
+TEST PASS, 9 AND 9 ARE EQUAL
+
+Add "adventurer" to deck
+Initial deck size 5, expected new deck size 6, actual new deck size 6
+TEST PASS, 6 AND 6 ARE EQUAL
+
+Added card to deck expected value: 7, actual value: 7
+TEST PASS, 7 AND 7 ARE EQUAL
+
+Remove adventurer card from supply, original count: 9, expected value: 8, actual value 8
+TEST PASS, 8 AND 8 ARE EQUAL
+
+Add "adventurer" to hand
+Initial hand size 5, expected new hand size 6, actual new hand size 6
+TEST PASS, 6 AND 6 ARE EQUAL
+
+Added card to hand expected value: 7, actual value: 7
+TEST PASS, 7 AND 7 ARE EQUAL
+
+Remove adventurer card from supply, original count: 8, expected value: 7, actual value 7
+TEST PASS, 7 AND 7 ARE EQUAL
+
+|------------------------------------------------------------------UNIT TEST 1: "gainCard" FINISH-----------------------------------------------------------------|
+
+
+|------------------------------------------------------------------UNIT TEST 2: "discardCard" START------------------------------------------------------------------|
+
+**Initialized values for game
+**Kingdom Cards: adventurer, council_room, feast, gardens, mine, remodel, smithy, village, baron, sea_hag
+**Number of players: 2
+**Seed: 450
+
+|---------------------------------UNIT TEST 2.1: Last position played, not trashed--------------------------------|
+
+TEST PASS, 4 AND 4 ARE EQUAL
+TEST PASS, -1 AND -1 ARE EQUAL
+TEST PASS, 0 IS LESS THAN 1
+TEST PASS, 5 IS GREATER THAN 4
+
+|---------------------------------UNIT TEST 2.2: Last position played, trashed------------------------------------|
+
+TEST PASS, -1 AND -1 ARE EQUAL
+TEST PASS, 1 AND 1 ARE EQUAL
+TEST PASS, 4 IS GREATER THAN 3
+
+|---------------------------------UNIT TEST 2.3: Last card in hand, not trashed-----------------------------------|
+
+TEST PASS, 4 AND 4 ARE EQUAL
+TEST PASS, -1 AND -1 ARE EQUAL
+TEST PASS, 1 IS LESS THAN 2
+TEST PASS, 1 IS GREATER THAN 0
+
+|---------------------------------UNIT TEST 2.4: Last card in hand, trashed---------------------------------------|
+
+TEST PASS, -1 AND -1 ARE EQUAL
+TEST PASS, 2 AND 2 ARE EQUAL
+TEST PASS, 1 IS GREATER THAN 0
+
+|---------------------------------UNIT TEST 2.5: Not last position, not last card in hand, not trashed------------|
+
+TEST PASS, 1 AND 1 ARE EQUAL
+TEST PASS, 0 IS LESS THAN 1
+TEST PASS, 5 IS GREATER THAN 4
+TEST PASS, -1 AND -1 ARE EQUAL
+TEST PASS, 4 AND 4 ARE EQUAL
+
+|---------------------------------UNIT TEST 2.6: Not last position, not last card in hand, trashed----------------|
+
+TEST PASS, 1 AND 1 ARE EQUAL
+TEST PASS, 4 IS GREATER THAN 3
+TEST PASS, -1 AND -1 ARE EQUAL
+TEST PASS, 4 AND 4 ARE EQUAL
+
+|------------------------------------------------------------------UNIT TEST 2: "discardCard" FINISH-----------------------------------------------------------------|
+
+
+|------------------------------------------------------------------UNIT TEST 3: "fullDeckCount" START------------------------------------------------------------------|
+
+**Initialized values for game
+**Kingdom Cards: adventurer, council_room, feast, gardens, mine, remodel, smithy, village, baron, sea_hag
+**Number of players: 2
+**Seed: 900
+
+
+Checking player 1 initialized estate cards
+TEST PASS, 3 AND 3 ARE EQUAL
+
+Checking player 1 initialized copper cards
+TEST PASS, 7 AND 7 ARE EQUAL
+
+Checking for card not in deck, adventurer
+TEST PASS, 0 AND 0 ARE EQUAL
+
+Adding adventurer to deck and verifying count
+TEST PASS, 1 AND 1 ARE EQUAL
+
+Adding adventurer to hand and verifying count
+TEST PASS, 2 AND 2 ARE EQUAL
+
+Adding adventurer to discard and verifying count
+TEST PASS, 3 AND 3 ARE EQUAL
+
+Checking player 2 initialized estate cards
+TEST PASS, 3 AND 3 ARE EQUAL
+
+Checking player 2 initialized copper cards
+TEST PASS, 7 AND 7 ARE EQUAL
+
+Checking for card not in deck, adventurer
+TEST PASS, 0 AND 0 ARE EQUAL
+
+Adding adventurer to deck and verifying count
+TEST PASS, 1 AND 1 ARE EQUAL
+
+Adding adventurer to hand and verifying count
+TEST PASS, 2 AND 2 ARE EQUAL
+
+Adding adventurer to discard and verifying count
+TEST PASS, 3 AND 3 ARE EQUAL
+
+|------------------------------------------------------------------UNIT TEST 3: "fullDeckCount" FINISH-----------------------------------------------------------------|
+
+
+|------------------------------------------------------------------UNIT TEST 4: "getCost" START------------------------------------------------------------------|
+
+**Initialized values for game
+**Kingdom Cards: adventurer, council_room, feast, gardens, mine, remodel, smithy, village, baron, sea_hag
+**Number of players: 2
+**Seed: 600
+
+|---------------------------------UNIT TEST 4.1: Verify known card values (i.e. smithy, adventurer)---------------------------------|
+
+Testing curse card. TEST PASS, 0 AND 0 ARE EQUAL
+Testing estate card. TEST PASS, 2 AND 2 ARE EQUAL
+Testing duchy card. TEST PASS, 5 AND 5 ARE EQUAL
+Testing province card. TEST PASS, 8 AND 8 ARE EQUAL
+Testing copper card. TEST PASS, 0 AND 0 ARE EQUAL
+Testing silver card. TEST PASS, 3 AND 3 ARE EQUAL
+Testing gold card. TEST PASS, 6 AND 6 ARE EQUAL
+Testing adventurer card. TEST PASS, 6 AND 6 ARE EQUAL
+Testing council_room card. TEST PASS, 5 AND 5 ARE EQUAL
+Testing feast card. TEST PASS, 4 AND 4 ARE EQUAL
+Testing gardens card. TEST PASS, 4 AND 4 ARE EQUAL
+Testing mine card. TEST PASS, 5 AND 5 ARE EQUAL
+Testing remodel card. TEST PASS, 4 AND 4 ARE EQUAL
+Testing smithy card. TEST PASS, 4 AND 4 ARE EQUAL
+Testing village card. TEST PASS, 3 AND 3 ARE EQUAL
+Testing baron card. TEST PASS, 4 AND 4 ARE EQUAL
+Testing great hall card. TEST PASS, 3 AND 3 ARE EQUAL
+Testing minion card. TEST PASS, 5 AND 5 ARE EQUAL
+Testing steward card. TEST PASS, 3 AND 3 ARE EQUAL
+Testing tribute card. TEST PASS, 5 AND 5 ARE EQUAL
+Testing ambassador card. TEST PASS, 3 AND 3 ARE EQUAL
+Testing cutpurse card. TEST PASS, 4 AND 4 ARE EQUAL
+Testing embargo card. TEST PASS, 2 AND 2 ARE EQUAL
+Testing outpost card. TEST PASS, 5 AND 5 ARE EQUAL
+Testing salvager card. TEST PASS, 4 AND 4 ARE EQUAL
+Testing sea hag card. TEST PASS, 4 AND 4 ARE EQUAL
+Testing treasure map card. TEST PASS, 4 AND 4 ARE EQUAL
+
+|---------------------------------UNIT TEST 4.2: Verify error on unknown cards (i.e. some int greater than 27 or less than 0)---------------------------------|
+
+TEST PASS, -1 AND -1 ARE EQUAL
+TEST PASS, -1 AND -1 ARE EQUAL
+
+|------------------------------------------------------------------UNIT TEST 4: "getCost" FINISH-----------------------------------------------------------------|
+
+
+|------------------------------------------------------------------CARD TEST 1: "smithy" START------------------------------------------------------------------|
+
+**Initialized values for game
+**Kingdom Cards: adventurer, council_room, feast, gardens, mine, remodel, smithy, village, baron, sea_hag
+**Number of players: 2
+**Seed: 900
+
+Hand count before "playSmithy" 5
+
+Deck count before "playSmithy" 5
+
+Played count before "playSmithy" 1 (should be 1 due to initial remove and replace for smithy card)
+
+Expected hand count after "playSmithy" is 7, actual hand count after "playSmithy" 6
+TEST FAIL, 7 AND 6 ARE NOT EQUAL
+
+Expected played card count after "playSmithy" is 2, actual played count after "playSmithy" 2
+TEST PASS, 2 AND 2 ARE EQUAL
+
+Expected deck count after "playSmithy" is 2, actual deck count after "playSmithy" 3
+TEST FAIL, 2 AND 3 ARE NOT EQUAL
+
+Expected card value in last played card after "playSmithy" is 13, actual card value in last played card after "playSmithy" 13
+TEST PASS, 13 AND 13 ARE EQUAL
+
+Verifying no change to supply counts after "playSmithy"
+TEST PASS, 10 AND 10 ARE EQUAL
+TEST PASS, 8 AND 8 ARE EQUAL
+TEST PASS, 8 AND 8 ARE EQUAL
+TEST PASS, 8 AND 8 ARE EQUAL
+TEST PASS, 46 AND 46 ARE EQUAL
+TEST PASS, 40 AND 40 ARE EQUAL
+TEST PASS, 30 AND 30 ARE EQUAL
+TEST PASS, 10 AND 10 ARE EQUAL
+TEST PASS, 10 AND 10 ARE EQUAL
+TEST PASS, 10 AND 10 ARE EQUAL
+TEST PASS, 8 AND 8 ARE EQUAL
+TEST PASS, 10 AND 10 ARE EQUAL
+TEST PASS, 10 AND 10 ARE EQUAL
+TEST PASS, 9 AND 9 ARE EQUAL
+TEST PASS, 10 AND 10 ARE EQUAL
+TEST PASS, 10 AND 10 ARE EQUAL
+TEST PASS, -1 AND -1 ARE EQUAL
+TEST PASS, -1 AND -1 ARE EQUAL
+TEST PASS, -1 AND -1 ARE EQUAL
+TEST PASS, -1 AND -1 ARE EQUAL
+TEST PASS, -1 AND -1 ARE EQUAL
+TEST PASS, -1 AND -1 ARE EQUAL
+TEST PASS, -1 AND -1 ARE EQUAL
+TEST PASS, -1 AND -1 ARE EQUAL
+TEST PASS, -1 AND -1 ARE EQUAL
+TEST PASS, 10 AND 10 ARE EQUAL
+TEST PASS, -1 AND -1 ARE EQUAL
+
+Verify no change to other player(s) deck
+TEST PASS, 10 AND 10 ARE EQUAL
+
+|------------------------------------------------------------------CARD TEST 1: "smithy" FINISH-----------------------------------------------------------------|
+
+
+|------------------------------------------------------------------CARD TEST 2: "sea_hag" START------------------------------------------------------------------|
+
+**Initialized values for game
+**Kingdom Cards: adventurer, council_room, feast, gardens, mine, remodel, smithy, village, baron, sea_hag
+**Number of players: 2
+**Seed: 900
+
+
+|---------------------------------CARD TEST 2.1: Beginning tests for player 0, who is the current player---------------------------------|
+
+
+Verify card on top of played card pile is sea hag, expected value 25, actual value is 4
+TEST FAIL, 4 AND 25 ARE NOT EQUAL
+
+Verify played card count has incremented by 1, expected value 2, actual value is 1
+TEST FAIL, 1 IS NOT GREATER THAN 1
+
+Verify no change to deck count, expected value 5, actual value 2
+TEST FAIL, 5 AND 2 ARE NOT EQUAL
+
+Verify sea hag has been removed from hand, expected value -1, actual value 25
+TEST FAIL, 25 AND -1 ARE NOT EQUAL
+
+Verify hand count has decremented by 1, expected value 4, actual value is 5
+TEST FAIL, 5 IS NOT LESS THAN 5
+
+|---------------------------------CARD TEST 2.2: Beginning tests for player 1, who is not the current player-------------------------------|
+
+
+Verifying that the top discard card came from top of deck, expected value 1, actual value 0
+TEST FAIL, 1 AND 0 ARE NOT EQUAL
+
+Verifying a curse card has been placed on top of the deck, expected value 0, actual value 1
+TEST FAIL, 0 AND 1 ARE NOT EQUAL
+
+Verify no change to deck count, expected value 10, actual value 10
+TEST PASS, 10 AND 10 ARE EQUAL
+
+Verify discard count has incremented by 1, expected value 1, actual value 0
+TEST FAIL, 0 IS NOT LESS THAN 0
+
+|------------------------------------------------------------------CARD TEST 2: "sea_hag" FINISH-----------------------------------------------------------------|
+
+
+|------------------------------------------------------------------CARD TEST 3: "steward" START------------------------------------------------------------------|
+
+**Initialized values for game
+**Kingdom Cards: adventurer, council_room, feast, gardens, mine, remodel, smithy, village, baron, sea_hag
+**Number of players: 2
+**Seed: 850
+
+|---------------------------------CARD TEST 3.1: Verify choice 1, two cards drawn---------------------------------|
+
+Verify hand count increased by 1, expected value 6, actual value 6
+TEST PASS, 6 AND 6 ARE EQUAL
+Verify deck count decreased by 2, expected value 3, actual value 3
+TEST PASS, 3 AND 3 ARE EQUAL
+Verify played card count increased by 1, expected value 2, actual value 2
+TEST FAIL, 3 AND 2 ARE NOT EQUAL
+Verify played card pile top card is steward, expected value 18, actual value 18
+TEST PASS, 18 AND 18 ARE EQUAL
+Verify no change to coins, expected value 4, actual value 4
+TEST PASS, 4 AND 4 ARE EQUAL
+
+|---------------------------------CARD TEST 3.2: Verify choice 2, plus 2 coins---------------------------------|
+
+Verify hand count decreased by 1, expected value 5, actual value 3
+TEST FAIL, 5 AND 3 ARE NOT EQUAL
+Verify no change to deck count, expected value 3, actual value 3
+TEST FAIL, 1 AND 3 ARE NOT EQUAL
+Verify played card count increased by 1, expected value 4, actual value 4
+TEST PASS, 4 AND 4 ARE EQUAL
+Verify played card pile top card is steward, expected value 18, actual value 18
+TEST PASS, 18 AND 18 ARE EQUAL
+Verify coins increased by 2, expected value 6, actual value 4
+TEST FAIL, 6 AND 4 ARE NOT EQUAL
+
+|---------------------------------CARD TEST 3.3: Verify choice 3, discard 2 cards---------------------------------|
+
+Verify hand count decreased by 3, expected value 2, actual value 2
+TEST PASS, 2 AND 2 ARE EQUAL
+Verify played card count increased by 1, expected value 5, actual value 5
+TEST PASS, 5 AND 5 ARE EQUAL
+Verify played card pile top card is steward, expected value 18, actual value -1
+TEST FAIL, 18 AND -1 ARE NOT EQUAL
+Verify trashed cards have been removed
+TEST PASS, 4 IS NOT EQUAL TO 18
+TEST PASS, 1 IS NOT EQUAL TO 18
+TEST PASS, 4 IS NOT EQUAL TO 2
+TEST PASS, 1 IS NOT EQUAL TO 2
+
+|------------------------------------------------------------------CARD TEST 3: "steward" FINISH-----------------------------------------------------------------|
+
+
+|------------------------------------------------------------------CARD TEST 4: "adventurer" START------------------------------------------------------------------|
+
+**Initialized values for game
+**Kingdom Cards: adventurer, council_room, feast, gardens, mine, remodel, smithy, village, baron, sea_hag
+**Number of players: 2
+**Seed: 600
+
+|---------------------------------CARD TEST 4.1: General post state after played adventurer card---------------------------------|
+
+Verify hand count increased by 1, expected value 6, actual value 7
+TEST FAIL, 6 AND 7 ARE NOT EQUAL
+Verify played card count increased by 1, expected value 1, actual value 0
+TEST FAIL, 1 AND 0 ARE NOT EQUAL
+Verify played card pile top card is adventurer, expected value 7, actual value 0
+TEST FAIL, 7 AND 0 ARE NOT EQUAL
+
+|---------------------------------CARD TEST 4.2: Verify two treasures added------------------------------------------------------|
+
+Verifying two new treasures have been added, expected count 5, actual count 5
+TEST PASS, 5 AND 5 ARE EQUAL
+
+|---------------------------------CARD TEST 4.3: Only one treasure card exists in deck-------------------------------------------|
+
+Verifying one new treasures have been added, expected count 6, actual count 6
+TEST PASS, 6 AND 6 ARE EQUAL
+
+|------------------------------------------------------------------CARD TEST 4: "adventurer" FINISH-----------------------------------------------------------------|
+
+File 'dominion.c'
+Lines executed:53.81% of 565
+Creating 'dominion.c.gcov'
+
         -:    0:Source:dominion.c
         -:    0:Graph:dominion.gcno
         -:    0:Data:dominion.gcda
