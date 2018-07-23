@@ -6,13 +6,92 @@
 char inputChar()
 {
     // TODO: rewrite this function
-    return ' ';
+	int intVal;
+	char returnVal;
+	
+	intVal = (rand() % (8 - 0 + 1)) + 0;
+	
+	switch(intVal){
+		case 0:
+			returnVal = '[';
+			break;
+		case 1:
+			returnVal = '(';
+			break;
+		case 2:
+			returnVal = '{';
+			break;
+		case 3:
+			returnVal = ' ';
+			break;
+		case 4:
+			returnVal = 'a';
+			break;
+		case 5:
+			returnVal = 'x';
+			break;
+		case 6:
+			returnVal = '}';
+			break;
+		case 7:
+			returnVal = ')';
+			break;
+		case 8:
+			returnVal = ']';
+			break;
+	}
+	
+    return returnVal;
 }
 
 char *inputString()
 {
     // TODO: rewrite this function
-    return "";
+	
+	char returnString[6];
+	int randVal, i;
+	
+	memset(returnString, '\0', sizeof(char)*6);
+	
+	for(i = 0; i < 6; i++){
+	
+		randVal = (rand() % (6 - 0 + 1)) + 0;
+		
+		if(i == 0){
+		
+			switch(randVal){
+				case 0:
+					strcpy(returnString,"r");
+					break;
+				case 1:
+					strcpy(returnString,"e");
+					break;
+				case 2:
+					strcpy(returnString,"s");
+					break;
+				case 3:
+					strcpy(returnString,"t");
+					break;
+			}
+		}else{
+			switch(randVal){
+				case 0:
+					strcat(returnString,"r");
+					break;
+				case 1:
+					strcat(returnString,"e");
+					break;
+				case 2:
+					strcat(returnString,"s");
+					break;
+				case 3:
+					strcat(returnString,"t");
+					break;
+			}
+		}
+	}
+	
+    return returnString;
 }
 
 void testme()
