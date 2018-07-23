@@ -1,3 +1,8 @@
+/*
+*This is James Ralstin's implementation for the testme random tester quiz
+*Due: 7/22/18
+*/
+
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>

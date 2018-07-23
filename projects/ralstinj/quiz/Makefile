@@ -1,1 +1,4 @@
-#This is a make file
+CFLAGS = -Wall -fpic -coverage -lm -std=c99
+
+testme: testme.c
+	gcc -o testme testme.c -g $(CFLAGS)
