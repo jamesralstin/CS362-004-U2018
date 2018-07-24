@@ -31,7 +31,8 @@
  * Latest Revision : 09-22-98
  * ------------------------------------------------------------------------- 
  */
-
+//:wq
+//
 #include <stdio.h>
 #include <time.h>
 #include "rngs.h"
