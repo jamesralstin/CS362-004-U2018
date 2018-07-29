@@ -228,8 +228,8 @@ int shuffle(int player, struct gameState *state) {
   return 0;
 }
 
-int playCard(int handPos, int choice1, int choice2, int choice3, struct gameState *state) 
-{	
+int playCard(int handPos, int choice1, int choice2, int choice3, struct gameState *state){	
+  
   int card;
   int coin_bonus = 0; 		//tracks coins gain from actions
 
@@ -1177,7 +1177,7 @@ int discardCard(int handPos, int currentPlayer, struct gameState *state, int tra
 
 int gainCard(int supplyPos, struct gameState *state, int toFlag, int player)
 {
-  //Note: supplyPos is enum of choosen card
+  //Note: supplyPos is enum of chosen card
 	
   //check if supply pile is empty (0) or card is not used in game (-1)
   if ( supplyCount(supplyPos, state) < 1 )
@@ -1248,7 +1248,7 @@ int playAdventurer(int z, struct gameState *state, int currentPlayer, int cardDr
 	
 	while(drawntreasure<2){
 		
-		if (state->deckCount[currentPlayer] <1){//if the deck is empty we need to shuffle discard and add to deck
+		if (state->deckCount[currentPlayer] <=1){//if the deck is empty we need to shuffle discard and add to deck
 		
 			shuffle(currentPlayer, state);
 		
@@ -1285,7 +1285,7 @@ int playSmithy(int currentPlayer, struct gameState *state, int handPos){
 	int i;
 	
 	//+3 Cards
-	for (i = 0; i < 3; i--)//creating bug by decrementing i instead of incrementing i
+	for (i = 0; i < 2; i++)//creating bug by decrementing i instead of incrementing i // had to remove bug in order to complete assignment 3, function in original state where i increments instead of decrements, added new more detectable bug where only 2 cards are drawn
 	{
 		drawCard(currentPlayer, state);
 	}
