@@ -1285,7 +1285,7 @@ int playSmithy(int currentPlayer, struct gameState *state, int handPos){
 	int i;
 	
 	//+3 Cards
-	for (i = 0; i < 3; i--)//creating bug by decrementing i instead of incrementing i
+	for (i = 0; i < 2; i++)//creating bug by running loop twice instead of three times
 	{
 		drawCard(currentPlayer, state);
 	}
