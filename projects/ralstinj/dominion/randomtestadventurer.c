@@ -28,8 +28,11 @@ void testAdventurer(int player, struct gameState *G){
 	int tempHand[MAX_HAND];
 	int z = 0;
 	int cardDrawn = 0;
-	int r;
+	int r, i;
 	struct gameState preG;
+	int preTreasureCount = 0;
+	int postTreasureCount = 0;
+
 	
 	//Replacing first position card with adventurer
 	discardCard(0, player, G, 0);	
@@ -43,40 +46,37 @@ void testAdventurer(int player, struct gameState *G){
 	Assert(0, r, "==");
 
 	//Effects of adventurer on pre state
-	int drawntreasure=0;
+	printf("Verify hand count increased by 1, expected value %d, actual value %d\n", preG.handCount[player] + 1, G->handCount[player]);
+	Assert(preG.handCount[player] + 1, G->handCount[player], "==");
+	printf("Verify played card count increased by 1, expected value %d, actual value %d\n", preG.playedCardCount + 1, G->playedCardCount);
+	Assert(preG.playedCardCount + 1, G->playedCardCount, "==");
+	printf("Verify played card pile top card is adventurer, expected value 7, actual value %d\n", G->playedCards[G->playedCardCount-1]);
+	Assert(adventurer, G->playedCards[G->playedCardCount-1], "==");
 	
-	while(drawntreasure<2){
+	//Get previous treasures
+	for(i = 0; i < preG.handCount[player]; i++){
 		
-		if (preG.deckCount[player] <1){//if the deck is empty we need to shuffle discard and add to deck
+		if (preG.hand[player][i] == copper || preG.hand[player][i] == silver || preG.hand[player][i] == gold){
 		
-			shuffle(player, &preG);
+			preTreasureCount++;
 		
 		}
+		
+	}
 	
-		drawCard(player, &preG);
-		cardDrawn = preG.hand[player][preG.handCount[player]-1];//top card of hand is most recently drawn card.
+	//Get new treasure
+	for(i = 0; i < G->handCount[player]; i++){
 		
-		if (cardDrawn == copper || cardDrawn == silver || cardDrawn == gold){
+		if (G->hand[player][i] == copper || G->hand[player][i] == silver || G->hand[player][i] == gold){
 		
-			drawntreasure++;
-		
-		}else{
-		
-			tempHand[z]=cardDrawn;
-			preG.handCount[player]--; //this should just remove the top card (the most recently drawn one).
-			z++;
+			postTreasureCount++;
 		
 		}
-	}
-	
-	while(z-1>=0){
 		
-		preG.discard[player][preG.discardCount[player]++]=tempHand[z-1]; // discard all cards in play that have been drawn
-		z=z-1;
-	
 	}
 	
-	Assert(memcmp(&preG, G, sizeof(struct gameState)), 0, "==");
+	printf("Verifying two new treasures have been added, expected count %d, actual count %d\n", preTreasureCount + 2, postTreasureCount);
+	Assert(preTreasureCount + 2, postTreasureCount, "==");
 	
 }
 
