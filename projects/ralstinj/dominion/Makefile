@@ -39,6 +39,9 @@ randomtestcard1: dominion.o rngs.o Assert.o randomtestcard1.c
 randomtestcard2: dominion.o rngs.o Assert.o randomtestcard2.c
 	gcc -o randomtestcard2 randomtestcard2.c -g dominion.o rngs.o Assert.o $(CFLAGS)
 	
+randomtestadventurer: dominion.o rngs.o Assert.o randomtestadventurer.c
+	gcc -o randomtestadventurer randomtestadventurer.c -g dominion.o rngs.o Assert.o $(CFLAGS)
+	
 playdom: dominion.o playdom.c
 	gcc -o playdom playdom.c -g dominion.o rngs.o $(CFLAGS)
 #To run playdom you need to entere: ./playdom <any integer number> like ./playdom 10*/
@@ -84,10 +87,15 @@ randomtestcard2results: randomtestcard2
 	gcov dominion.c >> randomtestcard2results.out
 	cat dominion.c.gcov >> randomtestcard2results.out
 	
+randomtestadventurerresults: randomtestadventurer
+	./randomtestadventurer &> randomtestadventurerresults.out
+	gcov dominion.c >> randomtestadventurerresults.out
+	cat dominion.c.gcov >> randomtestadventurerresults.out
+	
 player: player.c interface.o
 	gcc -o player player.c -g  dominion.o rngs.o interface.o $(CFLAGS)
 
-all: playdom player unittest1 unittest2 unittest3 unittest4 cardtest1 cardtest2 cardtest3 cardtest4 randomtestcard1 randomtestcard2
+all: playdom player unittest1 unittest2 unittest3 unittest4 cardtest1 cardtest2 cardtest3 cardtest4 randomtestcard1 randomtestcard2 randomtestadventurer
 
 clean:
 	rm -f *.o playdom.exe playdom player player.exe  *.gcov *.gcda *.gcno *.so *.out testDrawCard testDrawCard.exe

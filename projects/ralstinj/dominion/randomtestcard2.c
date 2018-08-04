@@ -58,20 +58,17 @@ int main(){
 
 	struct gameState testGame;
 	int i, player, n;
+	int kingdomCards[10] = {adventurer, council_room, feast, gardens, mine, remodel, smithy, village, baron, sea_hag};
 	
 	SelectStream(2);
 	PutSeed(3);
 	
 	for(n = 0; n < 100; n++){
 			
-		testGame.numPlayers = floor(Random()*MAX_PLAYERS);
+		testGame.numPlayers = floor(Random()*3+2);
 		player = floor(Random()*testGame.numPlayers);
-		int kingdomCards[10];
-		for(i = 0; i < 10; i++){
-			kingdomCards[i] = floor(Random()*treasure_map + 1);
-		}
 		
-		int randoSeed = floor(Random()*1000);
+		int randoSeed = floor(Random()*1000 + 1);
 		
 		i = initializeGame(testGame.numPlayers, kingdomCards, randoSeed, &testGame);
 	
