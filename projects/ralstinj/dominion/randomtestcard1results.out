@@ -1,0 +1,3996 @@
+Comparing discarded card of player 0
+TEST FAIL, -1445481377 AND -177088408 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 51 AND 48 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 28 AND 29 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 937925833 AND -291064039 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -398598472 AND -1059024722 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 139 AND 140 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 99 AND 98 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND 2003932304 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -1442563224 AND 379658939 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 360 AND 357 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 69 AND 70 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, -2139752278 AND 1335043051 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 1304350416 AND 1290046026 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 416 AND 417 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 425 AND 424 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND 2011750620 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, 1398588625 AND -38458797 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 126 AND 127 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 183 AND 182 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND -379214560 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, 751915647 AND -1292839958 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 403 AND 404 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 69 AND 68 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, 0 AND 335186882 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -2047329581 AND -1971890443 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 130 AND 131 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 24 AND 23 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND -90288324 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 1678386983 AND 1044911867 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 344 AND 341 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 164 AND 165 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, -284463493 AND 412082593 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, -1776967111 AND -1016338813 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 107 AND 108 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 425 AND 424 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND 557227555 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, -904113793 AND 1768637067 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 475 AND 476 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 337 AND 336 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, 0 AND 1691571014 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 599555276 AND -189853907 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 137 AND 138 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 162 AND 161 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 795573654 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 841774009 AND -1057771023 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 1 AND 2 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 142 AND 141 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND 682594700 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, -207843000 AND 423603449 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 292 AND 289 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 263 AND 264 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, -96462630 AND -440394168 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, -699254662 AND -1437019434 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 282 AND 283 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 259 AND 258 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, 0 AND 1121272315 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -905460925 AND -2127481684 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 305 AND 306 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 98 AND 97 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND -1837902786 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 1081540604 AND -1710081814 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 66 AND 63 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 75 AND 76 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 1322203897 AND 414410635 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 474708491 AND -2024600651 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 444 AND 441 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 182 AND 183 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 343846861 AND 880871688 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -884279599 AND -1827232813 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 444 AND 445 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 38 AND 37 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND -1185978669 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 1615162546 AND -1774305357 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 467 AND 464 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 452 AND 453 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, -757572799 AND 1858836565 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 1667778042 AND -1502849366 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 276 AND 277 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 150 AND 149 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND 7336235 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 1280313163 AND 239150745 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 105 AND 102 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 65 AND 66 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, -1245855961 AND 1605449695 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -1261633495 AND -331227734 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 288 AND 289 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 453 AND 452 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND -1376429768 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -1034352707 AND -26509037 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 187 AND 184 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 219 AND 220 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 1395030879 AND 49967033 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -744510573 AND 324650954 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 454 AND 455 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 16 AND 15 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND -208972379 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 1365996190 AND 1146543627 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 142 AND 143 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 383 AND 382 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND -1864928748 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -1190163430 AND -1609631860 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 397 AND 394 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 433 AND 434 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, -71539433 AND 1882370302 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -1402037482 AND -69024729 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 202 AND 203 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 210 AND 209 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND -868700632 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 994752602 AND -1033852278 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 357 AND 358 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 390 AND 389 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND 2006812194 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, -2137735268 AND 581025388 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 487 AND 488 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 481 AND 480 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND -155230802 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, -1454704046 AND -1489273657 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 302 AND 299 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 224 AND 225 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, -1318203127 AND -1994739205 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -608118236 AND -1111087591 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 357 AND 354 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 375 AND 376 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, -753833587 AND -1694585096 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -1210788954 AND 909794962 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 277 AND 278 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 300 AND 299 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND 268201597 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -318365116 AND 861771256 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 291 AND 292 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 103 AND 102 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 108295942 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 1807301672 AND -656145846 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 196 AND 197 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 197 AND 196 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND -1934498399 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, -530139742 AND -2003755819 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 193 AND 190 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 430 AND 431 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 1261859913 AND 1146441501 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, 1255389708 AND 1515445122 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 89 AND 90 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 377 AND 376 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, 0 AND 1826952231 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 698386535 AND 1954512181 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 263 AND 260 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 147 AND 148 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 1448167339 AND -842116962 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 531980440 AND 1273763304 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 470 AND 471 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 238 AND 237 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND -1083212224 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, -16126612 AND -786364474 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 43 AND 44 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 322 AND 321 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND 237058844 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 91451466 AND 1619026851 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 299 AND 300 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 384 AND 383 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 1439792882 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -338979548 AND -984151489 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 123 AND 124 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 428 AND 427 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND -717147832 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, -88897895 AND -1898592965 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 282 AND 279 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 177 AND 178 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, -1525556566 AND -203071976 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 289366796 AND -587710722 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 77 AND 74 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 31 AND 32 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, -400129540 AND -2132843673 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -1057978153 AND 63600179 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 6 AND 7 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 57 AND 56 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND 997975905 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -1165519881 AND 839500008 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 491 AND 492 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 412 AND 411 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND -1057000913 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 504760244 AND 1733555566 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 8 AND 5 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 222 AND 223 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 1004232653 AND 1685275183 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 1497806720 AND 178857260 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 39 AND 40 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 189 AND 188 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 1899494894 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 1498714512 AND 575631250 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 302 AND 299 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 193 AND 194 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 87902701 AND 1715681285 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -1799917211 AND 771290584 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 166 AND 163 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 477 AND 478 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 2044454911 AND 1486057172 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 1182103715 AND 1139110340 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 240 AND 241 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 146 AND 145 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND -1785728920 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 931592628 AND -1620609504 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 406 AND 407 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 276 AND 275 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND -1903594815 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -1588041635 AND 132037614 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 373 AND 374 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 494 AND 493 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND -430744285 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, 79673530 AND -1151536776 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 36 AND 33 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 277 AND 278 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, -1568123039 AND -2014723820 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, 2019923176 AND 1398954296 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 108 AND 109 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 240 AND 239 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, 0 AND 1250831272 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 1464505733 AND 448263693 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 231 AND 232 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 19 AND 18 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND -756062562 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -1886514468 AND 990796737 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 154 AND 155 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 473 AND 472 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND 857355365 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, -1072171671 AND -1561316991 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 68 AND 65 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 34 AND 35 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 381070303 AND -42101250 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -1521431591 AND 1083635015 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 264 AND 261 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 320 AND 321 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, -1909897222 AND 1195665798 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -1934632541 AND 851488080 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 286 AND 287 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 360 AND 359 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND 137984346 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, -1518666855 AND -1759821701 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 138 AND 139 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 307 AND 306 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND -1872762992 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, -1368390137 AND 453064943 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 249 AND 250 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 16 AND 15 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, 0 AND -491273210 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 839212566 AND -954386375 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 48 AND 49 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 454 AND 453 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND -1197094951 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 120700364 AND 359014073 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 370 AND 371 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 84 AND 83 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND -1158441228 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, 1142162799 AND -1065738040 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 33 AND 30 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 1 AND 2 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, -816393917 AND 1155470019 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, 281661769 AND 262738758 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 16 AND 17 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 112 AND 111 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, 0 AND -1795567969 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 2084461729 AND -363506176 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 109 AND 110 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 75 AND 74 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND -621471759 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 1811068317 AND -1712205303 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 55 AND 52 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 17 AND 18 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 551395475 AND 986984004 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, 875928229 AND -636180312 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 348 AND 349 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 319 AND 318 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND -1215078242 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, -1180268957 AND -827627926 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 331 AND 332 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 288 AND 287 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, 0 AND 1416054680 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 2081640482 AND -603429188 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 434 AND 431 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 168 AND 169 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 2007235096 AND 68672675 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -170157265 AND 1353250100 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 467 AND 468 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 37 AND 36 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND 1671222645 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 427538702 AND 813032293 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 391 AND 392 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 457 AND 456 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND -2104821114 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -1844455377 AND -232372805 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 481 AND 478 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 4 AND 5 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, -1078898598 AND 1753689765 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -2118916749 AND 902098293 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 19 AND 20 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 173 AND 172 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND -1329090921 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 492905645 AND -757689323 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 131 AND 128 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 355 AND 356 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 1337200560 AND 1856277142 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, -1711668597 AND 1743659668 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 444 AND 445 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 23 AND 22 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND 741293815 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -111221608 AND 1169287660 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 43 AND 40 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 98 AND 99 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, -1520358361 AND 1737808721 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 213003954 AND -1587094828 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 182 AND 183 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 23 AND 22 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND 1492243361 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -232983386 AND 210648008 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 498 AND 495 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 451 AND 452 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, -688671880 AND -710656380 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 1751370870 AND 883338986 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 414 AND 415 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 471 AND 470 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND -443531618 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, -1879989518 AND -343106890 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 374 AND 375 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 202 AND 201 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND 1454139664 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, 65136464 AND 1539475893 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 372 AND 373 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 224 AND 223 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, 0 AND -502052043 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -1219422409 AND 1053818621 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 41 AND 38 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 41 AND 42 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 1575331173 AND 1116967414 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -226624821 AND 489597531 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 19 AND 20 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 271 AND 270 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND 1415806798 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -783084296 AND -949382938 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 64 AND 65 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 174 AND 173 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND -1318065183 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 133303651 AND -380792175 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 332 AND 333 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 62 AND 61 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND 1270498973 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, 1719596628 AND -1183004265 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 131 AND 128 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 381 AND 382 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, -1016038151 AND -1056291944 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -545365140 AND -882093042 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 312 AND 309 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 294 AND 295 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, -1950193093 AND -709165373 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 1089210354 AND 332061117 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 419 AND 420 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 492 AND 491 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND 2064824022 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, -991361665 AND -1167130241 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 210 AND 211 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 476 AND 475 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND 501855181 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 554440955 AND -889234707 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 133 AND 134 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 440 AND 439 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND -1078435214 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 611382420 AND 699013360 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 0 AND -3 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 174 AND 175 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, -1425762842 AND 1801382962 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, -1642125775 AND -2079665058 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 199 AND 200 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 211 AND 210 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND 651656321 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -556702053 AND -575861924 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 322 AND 323 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 262 AND 261 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND -1196143639 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -1527856290 AND -907329804 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 349 AND 346 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 292 AND 293 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 1273294191 AND -1636759733 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 1193268320 AND -1111645069 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 345 AND 346 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 265 AND 264 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 1900171915 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -1306067193 AND -683135139 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 442 AND 443 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 123 AND 122 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND -757399144 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, -414577632 AND -735832641 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 240 AND 237 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 206 AND 207 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, -969661860 AND -200455271 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, 1302353174 AND 231179472 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 395 AND 396 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 111 AND 110 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, 0 AND 1879712938 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 394605393 AND -1824097222 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 452 AND 453 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 414 AND 413 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 1785790346 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -212888940 AND 168525790 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 388 AND 385 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 339 AND 340 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 1463259197 AND 119349911 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -1352831800 AND -296790636 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 367 AND 368 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 432 AND 431 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 608127760 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 1515150687 AND 1448261187 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 320 AND 321 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 102 AND 101 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND -1685613600 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, 1899972481 AND -1784941153 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 293 AND 290 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 103 AND 104 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, -676029379 AND 451887677 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -1600346541 AND 685030799 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 150 AND 147 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 475 AND 476 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, -86783704 AND 1093699126 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 1533930844 AND -1558297004 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 486 AND 487 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 99 AND 98 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND -937221657 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -696772621 AND 1490780889 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 349 AND 346 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 493 AND 494 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, -1753065632 AND 1097102170 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 22447469 AND -665570985 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 142 AND 143 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 53 AND 52 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND 1962796449 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, 560653597 AND -545965835 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 416 AND 417 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 322 AND 321 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND -822807786 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 896039572 AND -1232836921 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 101 AND 102 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 332 AND 331 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND -1518958226 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 1156157254 AND -1390630217 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 378 AND 375 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 358 AND 359 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, -1699838378 AND -170790140 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, -947224270 AND -246463321 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 462 AND 463 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 100 AND 99 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND -650815129 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, 747644887 AND 1055961229 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 9 AND 10 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 301 AND 300 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, 0 AND -463032610 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 1182806823 AND -119875524 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 79 AND 76 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 105 AND 106 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 401593890 AND 1178120051 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 2082674500 AND 2039288107 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 447 AND 448 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 180 AND 179 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND -1276600846 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 1754036619 AND 1467188612 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 95 AND 96 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 14 AND 13 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 1283252200 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 2096711949 AND 1711899389 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 475 AND 472 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 125 AND 126 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, -1166482268 AND 98805444 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, -1093162099 AND -787303412 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 345 AND 346 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 297 AND 296 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND 2118172423 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 2116009792 AND -2130032389 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 49 AND 50 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 336 AND 335 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND -1170179205 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -1695392923 AND 103582775 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 57 AND 58 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 253 AND 252 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND 1649832365 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, 1947587341 AND -423224198 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 143 AND 140 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 142 AND 143 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 924442570 AND 764672713 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, 1965840867 AND 1854877881 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 456 AND 457 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 195 AND 194 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, 0 AND 389360427 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -1754161028 AND -1277926158 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 101 AND 102 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 330 AND 329 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 966543326 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 174318312 AND 1938577365 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 105 AND 106 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 243 AND 242 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND 201374191 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, 1865294749 AND -1002008758 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 100 AND 101 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 71 AND 70 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND -1250088407 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, -1201396243 AND 467494344 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 55 AND 52 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 92 AND 93 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, -1377622418 AND 270269897 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 2032440284 AND 276878224 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 47 AND 48 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 420 AND 419 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 1353453531 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 213832770 AND -376791005 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 384 AND 381 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 285 AND 286 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 1893223169 AND 1632443501 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, 2065669122 AND -1202085406 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 208 AND 209 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 54 AND 53 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND -158810606 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 1680155696 AND 239908292 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 234 AND 235 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 365 AND 364 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 285103240 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 1973560897 AND -1687544921 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 230 AND 227 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 188 AND 189 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 1246250630 AND 1220309186 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, 693566064 AND -1567684770 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 181 AND 182 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 24 AND 23 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND 657987909 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, -545818188 AND -837407338 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 304 AND 305 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 20 AND 19 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, 0 AND -1999538129 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 729735702 AND 1524316424 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 69 AND 70 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 274 AND 273 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 240439386 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 1164774049 AND -152143946 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 198 AND 199 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 494 AND 493 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND 333495502 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, 316220372 AND -1269016040 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 143 AND 140 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 140 AND 141 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, -943886434 AND 212350054 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -1329357716 AND -880887106 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 125 AND 126 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 404 AND 403 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 1765229845 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 921124224 AND -716274682 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 453 AND 454 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 107 AND 106 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND 2145264750 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, -1145104850 AND 890950358 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 89 AND 86 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 427 AND 428 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, -1895937749 AND 661990154 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, -777343359 AND -1313836518 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 442 AND 443 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 445 AND 444 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, 0 AND 1395098090 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -1280733191 AND -1619168013 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 359 AND 360 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 194 AND 193 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 275859181 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -1870797447 AND 542231885 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 351 AND 348 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 88 AND 89 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 1728245055 AND -1017284054 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 473866788 AND -1809944803 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 151 AND 152 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 1 AND 0 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 418675571 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 254257393 AND 1502605255 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 399 AND 400 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 174 AND 173 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND 1714164960 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, 1666513685 AND 1142061449 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 181 AND 178 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 237 AND 238 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, -1575923655 AND -724511431 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, 2014591887 AND 563104465 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 222 AND 223 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 173 AND 172 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, 0 AND -1274465749 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -611732382 AND 1933452281 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 209 AND 206 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 4 AND 5 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, -691249562 AND 76730918 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -694536760 AND 726789533 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 21 AND 22 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 272 AND 271 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND 1262560715 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 1548196687 AND -1519559926 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 94 AND 95 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 238 AND 237 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 484296812 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 1960118132 AND 948173396 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 298 AND 295 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 105 AND 106 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, -1453964305 AND 270982471 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, -1892150215 AND -1491272377 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 229 AND 230 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 268 AND 267 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND 1163767415 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, -1701280511 AND 1243556174 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 361 AND 362 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 84 AND 83 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, 0 AND 2019704932 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -1163630288 AND 1807458365 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 33 AND 34 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 15 AND 14 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 559218268 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 1433525906 AND -1565008164 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 65 AND 66 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 90 AND 89 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND 317682582 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, -539394157 AND 862973039 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 109 AND 110 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 180 AND 179 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND -1320896557 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, 1542038076 AND 1798642272 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 349 AND 346 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 467 AND 468 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, 1572104464 AND 1722163664 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -2008894391 AND -1652322800 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 221 AND 222 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 418 AND 417 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND -226371377 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -1196854765 AND -1727575576 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 409 AND 410 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 4 AND 3 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND 1995362479 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, -424169315 AND -1332268451 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 483 AND 484 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 130 AND 129 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND 1698873061 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, -1387813742 AND 442811724 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 53 AND 50 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 113 AND 114 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, 270443427 AND 349038328 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 311525342 AND 1690351326 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 10 AND 11 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 408 AND 407 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 1827134116 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -1740640360 AND -1677082771 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 369 AND 370 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 151 AND 150 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND -520618000 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, 824852405 AND 723336802 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 329 AND 326 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 83 AND 84 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, -1327234138 AND 1357356650 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 1714776100 AND 1122832348 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 489 AND 490 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 173 AND 172 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 1415577819 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -1270663292 AND 328424878 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 395 AND 392 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 104 AND 105 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, -351780024 AND -1879667723 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, -2073955481 AND 1757646150 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 155 AND 156 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 239 AND 238 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND -1091041175 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, -2139181277 AND -717115668 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 73 AND 74 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 140 AND 139 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, 0 AND -1592955241 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -455502390 AND 721355616 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 441 AND 442 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 81 AND 80 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 1544997220 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 1633743556 AND -1113302073 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 80 AND 77 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 487 AND 488 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 733315685 AND -640074233 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, 1520254754 AND 892726387 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 47 AND 48 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 193 AND 192 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND -1750129303 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 1093115486 AND 1578064575 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 374 AND 375 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 494 AND 493 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND -2014394247 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 1838714228 AND 2055040819 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 340 AND 341 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 52 AND 51 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND -2082514623 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, 790915811 AND -826516405 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 461 AND 462 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 442 AND 441 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND 32366083 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, -419498788 AND -1288449886 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 171 AND 168 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 198 AND 199 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, -687651949 AND 797168844 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -117380782 AND 533096996 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 231 AND 232 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 95 AND 94 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND -1462541446 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -686081167 AND -402233545 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 89 AND 90 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 165 AND 164 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND 1405307465 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, -2009845537 AND 1174520297 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 326 AND 323 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 121 AND 122 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, -1128459070 AND 972418183 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -987807865 AND 1634856126 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 200 AND 201 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 55 AND 54 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND -1443174734 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -1057484445 AND -211091811 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 378 AND 379 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 260 AND 259 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND -1407009322 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, 1954263006 AND -688912027 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 285 AND 286 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 170 AND 169 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND 1664499726 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, 704069724 AND 995667775 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 83 AND 80 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 136 AND 137 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, -597562092 AND 1064612438 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -922066064 AND 1870984078 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 311 AND 308 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 162 AND 163 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, -439411653 AND -140584410 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 70332053 AND 1833940776 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 221 AND 222 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 294 AND 293 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND -1896662435 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 1479486410 AND 1335170926 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 15 AND 12 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 127 AND 128 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 1931591785 AND 1354905264 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -408229122 AND 1871952798 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 162 AND 163 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 118 AND 117 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND 953569911 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -1769650697 AND 1694931083 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 185 AND 186 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 392 AND 391 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 980814202 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -1592983507 AND 855514762 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 241 AND 238 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 273 AND 274 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 1654218755 AND -1877334999 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 567305804 AND 948427625 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 372 AND 369 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 6 AND 7 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, -5721480 AND 1286513368 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -422921673 AND 185963426 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 332 AND 333 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 18 AND 17 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND 1877166964 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -478737175 AND -2058565411 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 26 AND 27 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 468 AND 467 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND -912587223 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 1686749031 AND 442229248 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 260 AND 261 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 144 AND 143 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND 716607748 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, -1099670697 AND 505185618 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 159 AND 160 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 465 AND 464 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND 1087594338 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, 1751480468 AND 1448066136 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 448 AND 445 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 16 AND 17 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, 59858078 AND -766247476 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 1022245527 AND -1518463235 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 481 AND 478 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 283 AND 284 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, -1311960898 AND -433008675 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 1161915277 AND -756137667 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 471 AND 472 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 267 AND 266 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND -454843202 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -675040386 AND 572591506 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 249 AND 246 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 17 AND 18 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 1228167270 AND -1072691976 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -1494143404 AND 1233238765 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 191 AND 192 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 318 AND 317 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND -881974136 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, -1102499915 AND -1476269978 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 82 AND 83 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 387 AND 386 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND 1626528671 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 1397207401 AND 2017528770 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 32 AND 33 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 313 AND 312 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 1260570639 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -122456774 AND 1954569758 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 218 AND 219 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 426 AND 425 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND 1603788869 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, 548058443 AND 1383706181 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 191 AND 192 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 4 AND 3 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND -1162381021 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, -399894165 AND -192923490 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 249 AND 246 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 94 AND 95 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, 2112244387 AND 1106822222 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 1689237452 AND 997268151 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 340 AND 337 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 225 AND 226 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, -106155953 AND 1931964814 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 8628514 AND -660167000 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 239 AND 240 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 417 AND 416 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND -362753304 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, -1420982719 AND 2095328848 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 482 AND 483 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 10 AND 9 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND 1712424387 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, 176935184 AND 215838849 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 485 AND 486 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 155 AND 154 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, 0 AND -2019462595 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -116895587 AND 1984573769 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 15 AND 16 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 238 AND 237 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 973125166 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -742722579 AND 1355218425 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 322 AND 323 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 111 AND 110 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND 1129765752 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, -1495479729 AND -1694802538 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 343 AND 340 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 320 AND 321 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, -934950530 AND 1094770820 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -776887172 AND 1223329992 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 53 AND 54 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 221 AND 220 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND -547057262 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -1826129492 AND 63399931 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 444 AND 445 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 457 AND 456 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND -2059879452 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, -1386100452 AND 459269412 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 199 AND 196 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 153 AND 154 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, -1607751477 AND -1822850029 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, 1956762235 AND 1128585131 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 208 AND 209 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 207 AND 206 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, 0 AND 108735071 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -1601792806 AND -1393955355 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 80 AND 81 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 378 AND 377 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND -1118735279 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -171199090 AND 2064147941 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 446 AND 447 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 393 AND 392 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND -1189835215 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, -1042056056 AND -1183556237 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 382 AND 383 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 270 AND 269 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND -2033077172 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, -1980866082 AND 1672756906 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 204 AND 201 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 184 AND 185 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, -1813649708 AND -2009300297 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 1064874288 AND 612444367 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 417 AND 418 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 18 AND 17 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND -1822350868 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -41900967 AND 1287108304 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 358 AND 355 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 260 AND 261 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 1857396104 AND 759450734 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 636236751 AND -1135098288 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 94 AND 95 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 441 AND 440 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND -1645279581 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 689472660 AND -1954961815 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 15 AND 12 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 395 AND 396 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 1369968008 AND 458119417 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, 285187239 AND -81818898 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 2 AND 3 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 88 AND 87 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND -1999489087 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 1235573179 AND 853597492 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 59 AND 60 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 382 AND 381 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 1872479984 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 1835609076 AND -525980312 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 127 AND 124 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 403 AND 404 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 210826256 AND 1816017679 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, 1373286346 AND 559163297 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 258 AND 259 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 78 AND 77 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND 779909960 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, 318398710 AND 120729947 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 212 AND 213 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 143 AND 142 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, 0 AND -2137196963 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 567845750 AND 1293320701 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 78 AND 79 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 162 AND 161 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND -415812028 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 1982549815 AND -1274781621 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 202 AND 199 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 401 AND 402 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, -137705043 AND 1154563416 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -1991591796 AND -1063264266 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 264 AND 265 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 324 AND 323 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 1923118068 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 1875041889 AND 152143589 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 74 AND 71 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 232 AND 233 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, -1694707036 AND -302544102 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, 1210122645 AND 366363631 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 359 AND 360 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 428 AND 427 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND 1726823099 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -655777562 AND -1058048623 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 215 AND 216 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 128 AND 127 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 1606523990 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -1372662184 AND -1590778032 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 247 AND 244 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 44 AND 45 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, -1181669506 AND 812016867 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -435963180 AND -1357504954 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 344 AND 345 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 78 AND 77 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 755246376 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -1452493480 AND -421495521 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 421 AND 422 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 18 AND 17 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND -880313750 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, 463565024 AND -160100423 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 490 AND 487 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 438 AND 439 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 2109943113 AND 37167189 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 1520965767 AND -369708837 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 223 AND 224 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 226 AND 225 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND -895760924 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -1640996623 AND -1560868223 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 404 AND 401 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 263 AND 264 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 1005407228 AND -1505557659 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -161195232 AND -1365154923 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 343 AND 344 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 196 AND 195 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND -1877621223 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -682669098 AND 913003040 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 0 AND 1 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 224 AND 223 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND -585903201 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, 2065676326 AND -1291106254 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 99 AND 96 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 223 AND 224 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, -1670250497 AND -297761412 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 488032403 AND -1559784480 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 295 AND 296 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 274 AND 273 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND -883100403 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 2000392528 AND 856817612 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 226 AND 223 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 96 AND 97 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 1810896537 AND -1089601329 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 712119949 AND -1062410138 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 95 AND 92 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 280 AND 281 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 1650694977 AND 469801112 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 685707741 AND -1872581128 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 185 AND 186 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 487 AND 486 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND -1060688571 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -1671915226 AND -770790801 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 212 AND 213 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 446 AND 445 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 615668516 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 360581342 AND -305022261 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 387 AND 384 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 277 AND 278 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 280981832 AND 1882418638 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, 1056983229 AND -138476541 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 299 AND 300 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 248 AND 247 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND 533802648 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -110758655 AND -697638141 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 44 AND 41 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 459 AND 460 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 404753261 AND 361726292 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -115328812 AND 1682989405 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 326 AND 327 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 55 AND 54 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND -1738276424 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, -1341604621 AND -1370442680 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 50 AND 51 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 291 AND 290 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND 1952548494 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -694834304 AND -2014244922 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 415 AND 412 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 193 AND 194 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, -1447156562 AND -1263548112 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 2026628116 AND 2108075897 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 464 AND 465 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 102 AND 101 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND 1813165807 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, 248003809 AND -1699100887 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 250 AND 251 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 256 AND 255 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND -1339505124 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -682302686 AND -1282360194 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 128 AND 129 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 117 AND 116 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND -1049333874 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -441137610 AND 543386107 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 90 AND 91 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 366 AND 365 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND 507406830 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, -1269076474 AND 2144073442 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 321 AND 318 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 357 AND 358 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 359896100 AND 1234337107 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, 396870963 AND -26972856 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 95 AND 96 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 50 AND 49 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, 0 AND 378721527 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 1413882172 AND 1792876043 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 118 AND 119 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 210 AND 209 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND -1739676246 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 560444684 AND 943132565 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 258 AND 259 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 235 AND 234 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND -599169718 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, 1317996236 AND 888653087 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 3 AND 0 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 233 AND 234 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 888971118 AND 1749154058 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 1753588496 AND 1608496097 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 215 AND 216 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 94 AND 93 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 1021290286 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -1628969042 AND 458023979 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 483 AND 480 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 93 AND 94 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 1834667232 AND -537081494 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -1041358485 AND -1226052816 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 293 AND 294 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 317 AND 316 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 1527239418 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 1470448826 AND 791858378 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 227 AND 224 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 313 AND 314 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 253720168 AND -1835330682 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, 426350990 AND 2119977644 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 3 AND 4 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 368 AND 367 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND 1640658915 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, 582630333 AND -1327328363 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 6 AND 7 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 183 AND 182 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, 0 AND -632898929 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -2039825898 AND 1701692792 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 408 AND 409 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 230 AND 229 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 632413845 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -1536225428 AND 417984819 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 349 AND 346 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 435 AND 436 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, -1005087817 AND 242577655 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 542685213 AND 917202284 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 267 AND 264 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 421 AND 422 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, -939685415 AND 1593833464 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -518955035 AND -834769801 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 143 AND 144 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 108 AND 107 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND 615310478 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 1565809626 AND 5463395 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 96 AND 93 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 29 AND 30 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 363545326 AND -390082397 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -1023655031 AND 242272626 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 318 AND 319 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 484 AND 483 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND -1121451406 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 151727083 AND -1346566786 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 453 AND 454 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 205 AND 204 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 1161743143 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -63575978 AND -1955203267 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 54 AND 55 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 167 AND 166 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND -245973396 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, -1212391889 AND 1216902575 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 272 AND 269 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 238 AND 239 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 1485832362 AND -416834420 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, 712447346 AND 81411590 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 232 AND 233 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 54 AND 53 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, 0 AND -1706273411 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 1917834530 AND 1213807835 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 383 AND 384 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 70 AND 69 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND -1672533938 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, 2135375794 AND -1005898508 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 464 AND 465 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 266 AND 265 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND -1205091614 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, 149545415 AND -317836697 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 497 AND 498 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 266 AND 265 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND -1016861234 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, -1921543783 AND -909421058 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 192 AND 189 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 54 AND 55 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, -1899960972 AND 1057423253 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -612775611 AND 969510231 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 290 AND 291 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 424 AND 423 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 1298518038 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -1044342933 AND -998906370 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 138 AND 135 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 15 AND 16 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 1257630823 AND -104777839 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, 877114014 AND 640864679 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 23 AND 24 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 15 AND 14 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND -594933158 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -1907108561 AND 118473441 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 464 AND 461 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 56 AND 57 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 1102974902 AND -1589336748 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -1438251914 AND 888677696 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 143 AND 144 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 204 AND 203 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND -1915979444 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, -1666416267 AND 287506430 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 13 AND 14 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 278 AND 277 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND -1357853078 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, -1852229790 AND -792792188 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 34 AND 35 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 173 AND 172 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, 0 AND -1235207231 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, -376206601 AND 1930118476 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 355 AND 356 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 121 AND 120 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 1155261430 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -217086437 AND 1953445003 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 122 AND 123 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 286 AND 285 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND 1298073702 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, 656842203 AND -1024592120 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 436 AND 437 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 9 AND 8 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND 1254217852 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, -2096484984 AND -1630922508 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 440 AND 437 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 435 AND 436 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, 1085133166 AND -1248380798 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 895426689 AND -35561598 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 201 AND 202 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 75 AND 74 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 661709017 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -183590439 AND -849649591 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 291 AND 292 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 406 AND 405 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND 691327018 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, 820973793 AND -798002634 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 464 AND 461 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 187 AND 188 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 559455281 AND 289643604 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+Comparing discarded card of player 0
+TEST FAIL, 1813966864 AND -1176266943 ARE NOT EQUAL
+Comparing deck count of player 0
+TEST FAIL, 370 AND 371 ARE NOT EQUAL
+Comparing discard count of player 0
+TEST FAIL, 410 AND 409 ARE NOT EQUAL
+Comparing top deck card of player 0
+TEST FAIL, 0 AND 1340707610 ARE NOT EQUAL
+Comparing discarded card of player 1
+TEST FAIL, -1602734743 AND -1994624415 ARE NOT EQUAL
+Comparing deck count of player 1
+TEST FAIL, 59 AND 60 ARE NOT EQUAL
+Comparing discard count of player 1
+TEST FAIL, 331 AND 330 ARE NOT EQUAL
+Comparing top deck card of player 1
+TEST FAIL, 0 AND 1782756880 ARE NOT EQUAL
+Comparing discarded card of player 2
+TEST FAIL, -1029733772 AND 1550928062 ARE NOT EQUAL
+Comparing deck count of player 2
+TEST FAIL, 393 AND 394 ARE NOT EQUAL
+Comparing discard count of player 2
+TEST FAIL, 412 AND 411 ARE NOT EQUAL
+Comparing top deck card of player 2
+TEST FAIL, 0 AND -294649724 ARE NOT EQUAL
+Comparing discarded card of player 3
+TEST FAIL, 370839575 AND -457979130 ARE NOT EQUAL
+Comparing deck count of player 3
+TEST FAIL, 475 AND 472 ARE NOT EQUAL
+Comparing discard count of player 3
+TEST FAIL, 1 AND 2 ARE NOT EQUAL
+Comparing top deck card of player 3
+TEST FAIL, 1292021712 AND 718980387 ARE NOT EQUAL
+Verifying sea hag returned without error
+TEST PASS, 0 AND 0 ARE EQUAL
+
+**TESTING COMPLETE**
+
+File 'dominion.c'
+Lines executed:55.04% of 565
+Creating 'dominion.c.gcov'
+
+        -:    0:Source:dominion.c
+        -:    0:Graph:dominion.gcno
+        -:    0:Data:dominion.gcda
+        -:    0:Runs:12
+        -:    0:Programs:12
+        -:    1:#include "dominion.h"
+        -:    2:#include "dominion_helpers.h"
+        -:    3:#include "rngs.h"
+        -:    4:#include <stdio.h>
+        -:    5:#include <math.h>
+        -:    6:#include <stdlib.h>
+        -:    7:
+    11967:    8:int compare(const void* a, const void* b) {
+    11967:    9:  if (*(int*)a > *(int*)b)
+     3278:   10:    return 1;
+     8689:   11:  if (*(int*)a < *(int*)b)
+     4489:   12:    return -1;
+     4200:   13:  return 0;
+        -:   14:}
+        -:   15:
+    #####:   16:struct gameState* newGame() {
+    #####:   17:  struct gameState* g = malloc(sizeof(struct gameState));
+    #####:   18:  return g;
+        -:   19:}
+        -:   20:
+    #####:   21:int* kingdomCards(int k1, int k2, int k3, int k4, int k5, int k6, int k7,
+        -:   22:		  int k8, int k9, int k10) {
+    #####:   23:  int* k = malloc(10 * sizeof(int));
+    #####:   24:  k[0] = k1;
+    #####:   25:  k[1] = k2;
+    #####:   26:  k[2] = k3;
+    #####:   27:  k[3] = k4;
+    #####:   28:  k[4] = k5;
+    #####:   29:  k[5] = k6;
+    #####:   30:  k[6] = k7;
+    #####:   31:  k[7] = k8;
+    #####:   32:  k[8] = k9;
+    #####:   33:  k[9] = k10;
+    #####:   34:  return k;
+        -:   35:}
+        -:   36:
+      110:   37:int initializeGame(int numPlayers, int kingdomCards[10], int randomSeed,
+        -:   38:		   struct gameState *state) {
+        -:   39:
+        -:   40:  int i;
+        -:   41:  int j;
+        -:   42:  int it;			
+        -:   43:  //set up random number generator
+      110:   44:  SelectStream(1);
+      110:   45:  PutSeed((long)randomSeed);
+        -:   46:  
+        -:   47:  //check number of players
+      110:   48:  if (numPlayers > MAX_PLAYERS || numPlayers < 2)
+        -:   49:    {
+    #####:   50:      return -1;
+        -:   51:    }
+        -:   52:
+        -:   53:  //set number of players
+      110:   54:  state->numPlayers = numPlayers;
+        -:   55:
+        -:   56:  //check selected kingdom cards are different
+     1210:   57:  for (i = 0; i < 10; i++)
+        -:   58:    {
+    12100:   59:      for (j = 0; j < 10; j++)
+        -:   60:        {
+    11000:   61:	  if (j != i && kingdomCards[j] == kingdomCards[i])
+        -:   62:	    {
+    #####:   63:	      return -1;
+        -:   64:	    }
+        -:   65:        }
+        -:   66:    }
+        -:   67:
+        -:   68:
+        -:   69:  //initialize supply
+        -:   70:  ///////////////////////////////
+        -:   71:
+        -:   72:  //set number of Curse cards
+      110:   73:  if (numPlayers == 2)
+        -:   74:    {
+       22:   75:      state->supplyCount[curse] = 10;
+        -:   76:    }
+       88:   77:  else if (numPlayers == 3)
+        -:   78:    {
+       32:   79:      state->supplyCount[curse] = 20;
+        -:   80:    }
+        -:   81:  else
+        -:   82:    {
+       56:   83:      state->supplyCount[curse] = 30;
+        -:   84:    }
+        -:   85:
+        -:   86:  //set number of Victory cards
+      110:   87:  if (numPlayers == 2)
+        -:   88:    {
+       22:   89:      state->supplyCount[estate] = 8;
+       22:   90:      state->supplyCount[duchy] = 8;
+       22:   91:      state->supplyCount[province] = 8;
+        -:   92:    }
+        -:   93:  else
+        -:   94:    {
+       88:   95:      state->supplyCount[estate] = 12;
+       88:   96:      state->supplyCount[duchy] = 12;
+       88:   97:      state->supplyCount[province] = 12;
+        -:   98:    }
+        -:   99:
+        -:  100:  //set number of Treasure cards
+      110:  101:  state->supplyCount[copper] = 60 - (7 * numPlayers);
+      110:  102:  state->supplyCount[silver] = 40;
+      110:  103:  state->supplyCount[gold] = 30;
+        -:  104:
+        -:  105:  //set number of Kingdom cards
+     2310:  106:  for (i = adventurer; i <= treasure_map; i++)       	//loop all cards
+        -:  107:    {
+    18150:  108:      for (j = 0; j < 10; j++)           		//loop chosen cards
+        -:  109:	{
+    17050:  110:	  if (kingdomCards[j] == i)
+        -:  111:	    {
+        -:  112:	      //check if card is a 'Victory' Kingdom card
+     1100:  113:	      if (kingdomCards[j] == great_hall || kingdomCards[j] == gardens)
+        -:  114:		{
+      220:  115:		  if (numPlayers == 2){ 
+       22:  116:		    state->supplyCount[i] = 8; 
+        -:  117:		  }
+       88:  118:		  else{ state->supplyCount[i] = 12; }
+        -:  119:		}
+        -:  120:	      else
+        -:  121:		{
+      990:  122:		  state->supplyCount[i] = 10;
+        -:  123:		}
+     1100:  124:	      break;
+        -:  125:	    }
+        -:  126:	  else    //card is not in the set choosen for the game
+        -:  127:	    {
+    15950:  128:	      state->supplyCount[i] = -1;
+        -:  129:	    }
+        -:  130:	}
+        -:  131:
+        -:  132:    }
+        -:  133:
+        -:  134:  ////////////////////////
+        -:  135:  //supply intilization complete
+        -:  136:
+        -:  137:  //set player decks
+      474:  138:  for (i = 0; i < numPlayers; i++)
+        -:  139:    {
+      364:  140:      state->deckCount[i] = 0;
+     1456:  141:      for (j = 0; j < 3; j++)
+        -:  142:	{
+     1092:  143:	  state->deck[i][j] = estate;
+     1092:  144:	  state->deckCount[i]++;
+        -:  145:	}
+     2912:  146:      for (j = 3; j < 10; j++)
+        -:  147:	{
+     2548:  148:	  state->deck[i][j] = copper;
+     2548:  149:	  state->deckCount[i]++;		
+        -:  150:	}
+        -:  151:    }
+        -:  152:
+        -:  153:  //shuffle player decks
+      474:  154:  for (i = 0; i < numPlayers; i++)
+        -:  155:    {
+      364:  156:      if ( shuffle(i, state) < 0 )
+        -:  157:	{
+    #####:  158:	  return -1;
+        -:  159:	}
+        -:  160:    }
+        -:  161:
+        -:  162:  //draw player hands
+      474:  163:  for (i = 0; i < numPlayers; i++)
+        -:  164:    {  
+        -:  165:      //initialize hand size to zero
+      364:  166:      state->handCount[i] = 0;
+      364:  167:      state->discardCount[i] = 0;
+        -:  168:      //draw 5 cards
+        -:  169:      // for (j = 0; j < 5; j++)
+        -:  170:      //	{
+        -:  171:      //	  drawCard(i, state);
+        -:  172:      //	}
+        -:  173:    }
+        -:  174:  
+        -:  175:  //set embargo tokens to 0 for all supply piles
+     3080:  176:  for (i = 0; i <= treasure_map; i++)
+        -:  177:    {
+     2970:  178:      state->embargoTokens[i] = 0;
+        -:  179:    }
+        -:  180:
+        -:  181:  //initialize first player's turn
+      110:  182:  state->outpostPlayed = 0;
+      110:  183:  state->phase = 0;
+      110:  184:  state->numActions = 1;
+      110:  185:  state->numBuys = 1;
+      110:  186:  state->playedCardCount = 0;
+      110:  187:  state->whoseTurn = 0;
+      110:  188:  state->handCount[state->whoseTurn] = 0;
+        -:  189:  //int it; move to top
+        -:  190:
+        -:  191:  //Moved draw cards to here, only drawing at the start of a turn
+      660:  192:  for (it = 0; it < 5; it++){
+      550:  193:    drawCard(state->whoseTurn, state);
+        -:  194:  }
+        -:  195:
+      110:  196:  updateCoins(state->whoseTurn, state, 0);
+        -:  197:
+      110:  198:  return 0;
+        -:  199:}
+        -:  200:
+      380:  201:int shuffle(int player, struct gameState *state) {
+        -:  202: 
+        -:  203:
+        -:  204:  int newDeck[MAX_DECK];
+      380:  205:  int newDeckPos = 0;
+        -:  206:  int card;
+        -:  207:  int i;
+        -:  208:
+      380:  209:  if (state->deckCount[player] < 1)
+        2:  210:    return -1;
+      378:  211:  qsort ((void*)(state->deck[player]), state->deckCount[player], sizeof(int), compare); 
+        -:  212:  /* SORT CARDS IN DECK TO ENSURE DETERMINISM! */
+        -:  213:
+     5388:  214:  while (state->deckCount[player] > 0) {
+     4632:  215:    card = floor(Random() * state->deckCount[player]);
+     4632:  216:    newDeck[newDeckPos] = state->deck[player][card];
+     4632:  217:    newDeckPos++;
+    94868:  218:    for (i = card; i < state->deckCount[player]-1; i++) {
+    90236:  219:      state->deck[player][i] = state->deck[player][i+1];
+        -:  220:    }
+     4632:  221:    state->deckCount[player]--;
+        -:  222:  }
+     5010:  223:  for (i = 0; i < newDeckPos; i++) {
+     4632:  224:    state->deck[player][i] = newDeck[i];
+     4632:  225:    state->deckCount[player]++;
+        -:  226:  }
+        -:  227:
+      378:  228:  return 0;
+        -:  229:}
+        -:  230:
+       48:  231:int playCard(int handPos, int choice1, int choice2, int choice3, struct gameState *state) 
+        -:  232:{	
+        -:  233:  int card;
+       48:  234:  int coin_bonus = 0; 		//tracks coins gain from actions
+        -:  235:
+        -:  236:  //check if it is the right phase
+       48:  237:  if (state->phase != 0)
+        -:  238:    {
+    #####:  239:      return -1;
+        -:  240:    }
+        -:  241:	
+        -:  242:  //check if player has enough actions
+       48:  243:  if ( state->numActions < 1 )
+        -:  244:    {
+       40:  245:      return -1;
+        -:  246:    }
+        -:  247:	
+        -:  248:  //get card played
+        8:  249:  card = handCard(handPos, state);
+        -:  250:	
+        -:  251:  //check if selected card is an action
+        8:  252:  if ( card < adventurer || card > treasure_map )
+        -:  253:    {
+    #####:  254:      return -1;
+        -:  255:    }
+        -:  256:	
+        -:  257:  //play card
+        8:  258:  if ( cardEffect(card, choice1, choice2, choice3, state, handPos, &coin_bonus) < 0 )
+        -:  259:    {
+    #####:  260:      return -1;
+        -:  261:    }
+        -:  262:	
+        -:  263:  //reduce number of actions
+        8:  264:  state->numActions--;
+        -:  265:
+        -:  266:  //update coins (Treasure cards may be added with card draws)
+        8:  267:  updateCoins(state->whoseTurn, state, coin_bonus);
+        -:  268:	
+        8:  269:  return 0;
+        -:  270:}
+        -:  271:
+       32:  272:int buyCard(int supplyPos, struct gameState *state) {
+        -:  273:  int who;
+        -:  274:  if (DEBUG){
+        -:  275:    printf("Entering buyCard...\n");
+        -:  276:  }
+        -:  277:
+        -:  278:  // I don't know what to do about the phase thing.
+        -:  279:
+       32:  280:  who = state->whoseTurn;
+        -:  281:
+       32:  282:  if (state->numBuys < 1){
+        -:  283:    if (DEBUG)
+        -:  284:      printf("You do not have any buys left\n");
+    #####:  285:    return -1;
+       32:  286:  } else if (supplyCount(supplyPos, state) <1){
+        -:  287:    if (DEBUG)
+        -:  288:      printf("There are not any of that type of card left\n");
+    #####:  289:    return -1;
+       32:  290:  } else if (state->coins < getCost(supplyPos)){
+        -:  291:    if (DEBUG) 
+        -:  292:      printf("You do not have enough money to buy that. You have %d coins.\n", state->coins);
+    #####:  293:    return -1;
+        -:  294:  } else {
+       32:  295:    state->phase=1;
+        -:  296:    //state->supplyCount[supplyPos]--;
+       32:  297:    gainCard(supplyPos, state, 0, who); //card goes in discard, this might be wrong.. (2 means goes into hand, 0 goes into discard)
+        -:  298:  
+       32:  299:    state->coins = (state->coins) - (getCost(supplyPos));
+       32:  300:    state->numBuys--;
+        -:  301:    if (DEBUG)
+        -:  302:      printf("You bought card number %d for %d coins. You now have %d buys and %d coins.\n", supplyPos, getCost(supplyPos), state->numBuys, state->coins);
+        -:  303:  }
+        -:  304:
+        -:  305:  //state->discard[who][state->discardCount[who]] = supplyPos;
+        -:  306:  //state->discardCount[who]++;
+        -:  307:    
+       32:  308:  return 0;
+        -:  309:}
+        -:  310:
+      254:  311:int numHandCards(struct gameState *state) {
+      254:  312:  return state->handCount[ whoseTurn(state) ];
+        -:  313:}
+        -:  314:
+      479:  315:int handCard(int handPos, struct gameState *state) {
+      479:  316:  int currentPlayer = whoseTurn(state);
+      479:  317:  return state->hand[currentPlayer][handPos];
+        -:  318:}
+        -:  319:
+       69:  320:int supplyCount(int card, struct gameState *state) {
+       69:  321:  return state->supplyCount[card];
+        -:  322:}
+        -:  323:
+       12:  324:int fullDeckCount(int player, int card, struct gameState *state) {
+        -:  325:  int i;
+       12:  326:  int count = 0;
+        -:  327:
+      108:  328:  for (i = 0; i < state->deckCount[player]; i++)
+        -:  329:    {
+       96:  330:      if (state->deck[player][i] == card) count++;
+        -:  331:    }
+        -:  332:
+       46:  333:  for (i = 0; i < state->handCount[player]; i++)
+        -:  334:    {
+       34:  335:      if (state->hand[player][i] == card) count++;
+        -:  336:    }
+        -:  337:
+       14:  338:  for (i = 0; i < state->discardCount[player]; i++)
+        -:  339:    {
+        2:  340:      if (state->discard[player][i] == card) count++;
+        -:  341:    }
+        -:  342:
+       12:  343:  return count;
+        -:  344:}
+        -:  345:
+      805:  346:int whoseTurn(struct gameState *state) {
+      805:  347:  return state->whoseTurn;
+        -:  348:}
+        -:  349:
+       32:  350:int endTurn(struct gameState *state) {
+        -:  351:  int k;
+        -:  352:  int i;
+       32:  353:  int currentPlayer = whoseTurn(state);
+        -:  354:  
+        -:  355:  //Discard hand
+      206:  356:  for (i = 0; i < state->handCount[currentPlayer]; i++){
+      174:  357:    state->discard[currentPlayer][state->discardCount[currentPlayer]++] = state->hand[currentPlayer][i];//Discard
+      174:  358:    state->hand[currentPlayer][i] = -1;//Set card to -1
+        -:  359:  }
+       32:  360:  state->handCount[currentPlayer] = 0;//Reset hand count
+        -:  361:    
+        -:  362:  //Code for determining the player
+       32:  363:  if (currentPlayer < (state->numPlayers - 1)){ 
+       16:  364:    state->whoseTurn = currentPlayer + 1;//Still safe to increment
+        -:  365:  }
+        -:  366:  else{
+       16:  367:    state->whoseTurn = 0;//Max player has been reached, loop back around to player 1
+        -:  368:  }
+        -:  369:
+       32:  370:  state->outpostPlayed = 0;
+       32:  371:  state->phase = 0;
+       32:  372:  state->numActions = 1;
+       32:  373:  state->coins = 0;
+       32:  374:  state->numBuys = 1;
+       32:  375:  state->playedCardCount = 0;
+       32:  376:  state->handCount[state->whoseTurn] = 0;
+        -:  377:
+        -:  378:  //int k; move to top
+        -:  379:  //Next player draws hand
+      192:  380:  for (k = 0; k < 5; k++){
+      160:  381:    drawCard(state->whoseTurn, state);//Draw a card
+        -:  382:  }
+        -:  383:
+        -:  384:  //Update money
+       32:  385:  updateCoins(state->whoseTurn, state , 0);
+        -:  386:
+       32:  387:  return 0;
+        -:  388:}
+        -:  389:
+       33:  390:int isGameOver(struct gameState *state) {
+        -:  391:  int i;
+        -:  392:  int j;
+        -:  393:	
+        -:  394:  //if stack of Province cards is empty, the game ends
+       33:  395:  if (state->supplyCount[province] == 0)
+        -:  396:    {
+        1:  397:      return 1;
+        -:  398:    }
+        -:  399:
+        -:  400:  //if three supply pile are at 0, the game ends
+       32:  401:  j = 0;
+      832:  402:  for (i = 0; i < 25; i++)
+        -:  403:    {
+      800:  404:      if (state->supplyCount[i] == 0)
+        -:  405:	{
+    #####:  406:	  j++;
+        -:  407:	}
+        -:  408:    }
+       32:  409:  if ( j >= 3)
+        -:  410:    {
+    #####:  411:      return 1;
+        -:  412:    }
+        -:  413:
+       32:  414:  return 0;
+        -:  415:}
+        -:  416:
+        2:  417:int scoreFor (int player, struct gameState *state) {
+        -:  418:
+        -:  419:  int i;
+        2:  420:  int score = 0;
+        -:  421:  //score from hand
+        7:  422:  for (i = 0; i < state->handCount[player]; i++)
+        -:  423:    {
+        5:  424:      if (state->hand[player][i] == curse) { score = score - 1; };
+        5:  425:      if (state->hand[player][i] == estate) { score = score + 1; };
+        5:  426:      if (state->hand[player][i] == duchy) { score = score + 3; };
+        5:  427:      if (state->hand[player][i] == province) { score = score + 6; };
+        5:  428:      if (state->hand[player][i] == great_hall) { score = score + 1; };
+        5:  429:      if (state->hand[player][i] == gardens) { score = score + ( fullDeckCount(player, 0, state) / 10 ); };
+        -:  430:    }
+        -:  431:
+        -:  432:  //score from discard
+       32:  433:  for (i = 0; i < state->discardCount[player]; i++)
+        -:  434:    {
+       30:  435:      if (state->discard[player][i] == curse) { score = score - 1; };
+       30:  436:      if (state->discard[player][i] == estate) { score = score + 1; };
+       30:  437:      if (state->discard[player][i] == duchy) { score = score + 3; };
+       30:  438:      if (state->discard[player][i] == province) { score = score + 6; };
+       30:  439:      if (state->discard[player][i] == great_hall) { score = score + 1; };
+       30:  440:      if (state->discard[player][i] == gardens) { score = score + ( fullDeckCount(player, 0, state) / 10 ); };
+        -:  441:    }
+        -:  442:
+        -:  443:  //score from deck
+       32:  444:  for (i = 0; i < state->discardCount[player]; i++)
+        -:  445:    {
+       30:  446:      if (state->deck[player][i] == curse) { score = score - 1; };
+       30:  447:      if (state->deck[player][i] == estate) { score = score + 1; };
+       30:  448:      if (state->deck[player][i] == duchy) { score = score + 3; };
+       30:  449:      if (state->deck[player][i] == province) { score = score + 6; };
+       30:  450:      if (state->deck[player][i] == great_hall) { score = score + 1; };
+       30:  451:      if (state->deck[player][i] == gardens) { score = score + ( fullDeckCount(player, 0, state) / 10 ); };
+        -:  452:    }
+        -:  453:
+        2:  454:  return score;
+        -:  455:}
+        -:  456:
+    #####:  457:int getWinners(int players[MAX_PLAYERS], struct gameState *state) {
+        -:  458:  int i;	
+        -:  459:  int j;
+        -:  460:  int highScore;
+        -:  461:  int currentPlayer;
+        -:  462:
+        -:  463:  //get score for each player
+    #####:  464:  for (i = 0; i < MAX_PLAYERS; i++)
+        -:  465:    {
+        -:  466:      //set unused player scores to -9999
+    #####:  467:      if (i >= state->numPlayers)
+        -:  468:	{
+    #####:  469:	  players[i] = -9999;
+        -:  470:	}
+        -:  471:      else
+        -:  472:	{
+    #####:  473:	  players[i] = scoreFor (i, state);
+        -:  474:	}
+        -:  475:    }
+        -:  476:
+        -:  477:  //find highest score
+    #####:  478:  j = 0;
+    #####:  479:  for (i = 0; i < MAX_PLAYERS; i++)
+        -:  480:    {
+    #####:  481:      if (players[i] > players[j])
+        -:  482:	{
+    #####:  483:	  j = i;
+        -:  484:	}
+        -:  485:    }
+    #####:  486:  highScore = players[j];
+        -:  487:
+        -:  488:  //add 1 to players who had less turns
+    #####:  489:  currentPlayer = whoseTurn(state);
+    #####:  490:  for (i = 0; i < MAX_PLAYERS; i++)
+        -:  491:    {
+    #####:  492:      if ( players[i] == highScore && i > currentPlayer )
+        -:  493:	{
+    #####:  494:	  players[i]++;
+        -:  495:	}
+        -:  496:    }
+        -:  497:
+        -:  498:  //find new highest score
+    #####:  499:  j = 0;
+    #####:  500:  for (i = 0; i < MAX_PLAYERS; i++)
+        -:  501:    {
+    #####:  502:      if ( players[i] > players[j] )
+        -:  503:	{
+    #####:  504:	  j = i;
+        -:  505:	}
+        -:  506:    }
+    #####:  507:  highScore = players[j];
+        -:  508:
+        -:  509:  //set winners in array to 1 and rest to 0
+    #####:  510:  for (i = 0; i < MAX_PLAYERS; i++)
+        -:  511:    {
+    #####:  512:      if ( players[i] == highScore )
+        -:  513:	{
+    #####:  514:	  players[i] = 1;
+        -:  515:	}
+        -:  516:      else
+        -:  517:	{
+    #####:  518:	  players[i] = 0;
+        -:  519:	}
+        -:  520:    }
+        -:  521:
+    #####:  522:  return 0;
+        -:  523:}
+        -:  524:
+    18621:  525:int drawCard(int player, struct gameState *state)
+        -:  526:{	int count;
+        -:  527:  int deckCounter;
+    18621:  528:  if (state->deckCount[player] <= 0){//Deck is empty
+        -:  529:    
+        -:  530:    //Step 1 Shuffle the discard pile back into a deck
+        -:  531:    int i;
+        -:  532:    //Move discard to deck
+     1007:  533:    for (i = 0; i < state->discardCount[player];i++){
+      992:  534:      state->deck[player][i] = state->discard[player][i];
+      992:  535:      state->discard[player][i] = -1;
+        -:  536:    }
+        -:  537:
+       15:  538:    state->deckCount[player] = state->discardCount[player];
+       15:  539:    state->discardCount[player] = 0;//Reset discard
+        -:  540:
+        -:  541:    //Shufffle the deck
+       15:  542:    shuffle(player, state);//Shuffle the deck up and make it so that we can draw
+        -:  543:   
+        -:  544:    if (DEBUG){//Debug statements
+        -:  545:      printf("Deck count now: %d\n", state->deckCount[player]);
+        -:  546:    }
+        -:  547:    
+       15:  548:    state->discardCount[player] = 0;
+        -:  549:
+        -:  550:    //Step 2 Draw Card
+       15:  551:    count = state->handCount[player];//Get current player's hand count
+        -:  552:    
+        -:  553:    if (DEBUG){//Debug statements
+        -:  554:      printf("Current hand count: %d\n", count);
+        -:  555:    }
+        -:  556:    
+       15:  557:    deckCounter = state->deckCount[player];//Create a holder for the deck count
+        -:  558:
+       15:  559:    if (deckCounter == 0)
+        1:  560:      return -1;
+        -:  561:
+       14:  562:    state->hand[player][count] = state->deck[player][deckCounter - 1];//Add card to hand
+       14:  563:    state->deckCount[player]--;
+       14:  564:    state->handCount[player]++;//Increment hand count
+        -:  565:  }
+        -:  566:
+        -:  567:  else{
+    18606:  568:    int count = state->handCount[player];//Get current hand count for player
+        -:  569:    int deckCounter;
+        -:  570:    if (DEBUG){//Debug statements
+        -:  571:      printf("Current hand count: %d\n", count);
+        -:  572:    }
+        -:  573:
+    18606:  574:    deckCounter = state->deckCount[player];//Create holder for the deck count
+    18606:  575:    state->hand[player][count] = state->deck[player][deckCounter - 1];//Add card to the hand
+    18606:  576:    state->deckCount[player]--;
+    18606:  577:    state->handCount[player]++;//Increment hand count
+        -:  578:  }
+        -:  579:
+    18620:  580:  return 0;
+        -:  581:}
+        -:  582:
+       93:  583:int getCost(int cardNumber)
+        -:  584:{
+       93:  585:  switch( cardNumber ) 
+        -:  586:    {
+        -:  587:    case curse:
+        1:  588:      return 0;
+        -:  589:    case estate:
+        1:  590:      return 2;
+        -:  591:    case duchy:
+        1:  592:      return 5;
+        -:  593:    case province:
+       17:  594:      return 8;
+        -:  595:    case copper:
+        1:  596:      return 0;
+        -:  597:    case silver:
+       27:  598:      return 3;
+        -:  599:    case gold:
+       15:  600:      return 6;
+        -:  601:    case adventurer:
+        5:  602:      return 6;
+        -:  603:    case council_room:
+        1:  604:      return 5;
+        -:  605:    case feast:
+        1:  606:      return 4;
+        -:  607:    case gardens:
+        1:  608:      return 4;
+        -:  609:    case mine:
+        1:  610:      return 5;
+        -:  611:    case remodel:
+        1:  612:      return 4;
+        -:  613:    case smithy:
+        5:  614:      return 4;
+        -:  615:    case village:
+        1:  616:      return 3;
+        -:  617:    case baron:
+        1:  618:      return 4;
+        -:  619:    case great_hall:
+        1:  620:      return 3;
+        -:  621:    case minion:
+        1:  622:      return 5;
+        -:  623:    case steward:
+        1:  624:      return 3;
+        -:  625:    case tribute:
+        1:  626:      return 5;
+        -:  627:    case ambassador:
+        1:  628:      return 3;
+        -:  629:    case cutpurse:
+        1:  630:      return 4;
+        -:  631:    case embargo: 
+        1:  632:      return 2;
+        -:  633:    case outpost:
+        1:  634:      return 5;
+        -:  635:    case salvager:
+        1:  636:      return 4;
+        -:  637:    case sea_hag:
+        1:  638:      return 4;
+        -:  639:    case treasure_map:
+        1:  640:      return 4;
+        -:  641:    }
+        -:  642:	
+        2:  643:  return -1;
+        -:  644:}
+        -:  645:
+        8:  646:int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState *state, int handPos, int *bonus)
+        -:  647:{
+        -:  648:  int i;
+        -:  649:  int j;
+        -:  650:  int k;
+        -:  651:  int x;
+        -:  652:  int index;
+        8:  653:  int currentPlayer = whoseTurn(state);
+        8:  654:  int nextPlayer = currentPlayer + 1;
+        -:  655:
+        8:  656:  int tributeRevealedCards[2] = {-1, -1};
+        -:  657:  int temphand[MAX_HAND];// moved above the if statement
+        8:  658:  int cardDrawn = 0;
+        -:  659:  int result;
+        8:  660:  int z = 0;// this is the counter for the temp hand
+        8:  661:  if (nextPlayer > (state->numPlayers - 1)){
+        6:  662:    nextPlayer = 0;
+        -:  663:  }
+        -:  664:  
+        -:  665:	//
+        -:  666:  //uses switch to select card and perform actions
+        8:  667:  switch( card ) 
+        -:  668:    {
+        -:  669:    case adventurer:
+        -:  670:	  
+        6:  671:		result = playAdventurer(z, state, currentPlayer, cardDrawn, temphand);
+        -:  672:	
+        6:  673:		return result;
+        -:  674:	
+        -:  675:    case council_room:
+        -:  676:      //+4 Cards
+    #####:  677:      for (i = 0; i < 4; i++)
+        -:  678:	{
+    #####:  679:	  drawCard(currentPlayer, state);
+        -:  680:	}
+        -:  681:			
+        -:  682:      //+1 Buy
+    #####:  683:      state->numBuys++;
+        -:  684:			
+        -:  685:      //Each other player draws a card
+    #####:  686:      for (i = 0; i < state->numPlayers; i++)
+        -:  687:	{
+    #####:  688:	  if ( i != currentPlayer )
+        -:  689:	    {
+    #####:  690:	      drawCard(i, state);
+        -:  691:	    }
+        -:  692:	}
+        -:  693:			
+        -:  694:      //put played card in played card pile
+    #####:  695:      discardCard(handPos, currentPlayer, state, 0);
+        -:  696:			
+    #####:  697:      return 0;
+        -:  698:			
+        -:  699:    case feast:
+        -:  700:      //gain card with cost up to 5
+        -:  701:      //Backup hand
+    #####:  702:      for (i = 0; i <= state->handCount[currentPlayer]; i++){
+    #####:  703:	temphand[i] = state->hand[currentPlayer][i];//Backup card
+    #####:  704:	state->hand[currentPlayer][i] = -1;//Set to nothing
+        -:  705:      }
+        -:  706:      //Backup hand
+        -:  707:
+        -:  708:      //Update Coins for Buy
+    #####:  709:      updateCoins(currentPlayer, state, 5);
+    #####:  710:      x = 1;//Condition to loop on
+    #####:  711:      while( x == 1) {//Buy one card
+    #####:  712:	if (supplyCount(choice1, state) <= 0){
+        -:  713:	  if (DEBUG)
+        -:  714:	    printf("None of that card left, sorry!\n");
+        -:  715:
+        -:  716:	  if (DEBUG){
+        -:  717:	    printf("Cards Left: %d\n", supplyCount(choice1, state));
+        -:  718:	  }
+        -:  719:	}
+    #####:  720:	else if (state->coins < getCost(choice1)){
+    #####:  721:	  printf("That card is too expensive!\n");
+        -:  722:
+        -:  723:	  if (DEBUG){
+        -:  724:	    printf("Coins: %d < %d\n", state->coins, getCost(choice1));
+        -:  725:	  }
+        -:  726:	}
+        -:  727:	else{
+        -:  728:
+        -:  729:	  if (DEBUG){
+        -:  730:	    printf("Deck Count: %d\n", state->handCount[currentPlayer] + state->deckCount[currentPlayer] + state->discardCount[currentPlayer]);
+        -:  731:	  }
+        -:  732:
+    #####:  733:	  gainCard(choice1, state, 0, currentPlayer);//Gain the card
+    #####:  734:	  x = 0;//No more buying cards
+        -:  735:
+        -:  736:	  if (DEBUG){
+        -:  737:	    printf("Deck Count: %d\n", state->handCount[currentPlayer] + state->deckCount[currentPlayer] + state->discardCount[currentPlayer]);
+        -:  738:	  }
+        -:  739:
+        -:  740:	}
+        -:  741:      }     
+        -:  742:
+        -:  743:      //Reset Hand
+    #####:  744:      for (i = 0; i <= state->handCount[currentPlayer]; i++){
+    #####:  745:	state->hand[currentPlayer][i] = temphand[i];
+    #####:  746:	temphand[i] = -1;
+        -:  747:      }
+        -:  748:      //Reset Hand
+        -:  749:      			
+    #####:  750:      return 0;
+        -:  751:			
+        -:  752:    case gardens:
+    #####:  753:      return -1;
+        -:  754:			
+        -:  755:    case mine:
+    #####:  756:      j = state->hand[currentPlayer][choice1];  //store card we will trash
+        -:  757:
+    #####:  758:      if (state->hand[currentPlayer][choice1] < copper || state->hand[currentPlayer][choice1] > gold)
+        -:  759:	{
+    #####:  760:	  return -1;
+        -:  761:	}
+        -:  762:		
+    #####:  763:      if (choice2 > treasure_map || choice2 < curse)
+        -:  764:	{
+    #####:  765:	  return -1;
+        -:  766:	}
+        -:  767:
+    #####:  768:      if ( (getCost(state->hand[currentPlayer][choice1]) + 3) > getCost(choice2) )
+        -:  769:	{
+    #####:  770:	  return -1;
+        -:  771:	}
+        -:  772:
+    #####:  773:      gainCard(choice2, state, 2, currentPlayer);
+        -:  774:
+        -:  775:      //discard card from hand
+    #####:  776:      discardCard(handPos, currentPlayer, state, 0);
+        -:  777:
+        -:  778:      //discard trashed card
+    #####:  779:      for (i = 0; i < state->handCount[currentPlayer]; i++)
+        -:  780:	{
+    #####:  781:	  if (state->hand[currentPlayer][i] == j)
+        -:  782:	    {
+    #####:  783:	      discardCard(i, currentPlayer, state, 0);			
+    #####:  784:	      break;
+        -:  785:	    }
+        -:  786:	}
+        -:  787:			
+    #####:  788:      return 0;
+        -:  789:			
+        -:  790:    case remodel:
+    #####:  791:      j = state->hand[currentPlayer][choice1];  //store card we will trash
+        -:  792:
+    #####:  793:      if ( (getCost(state->hand[currentPlayer][choice1]) + 2) > getCost(choice2) )
+        -:  794:	{
+    #####:  795:	  return -1;
+        -:  796:	}
+        -:  797:
+    #####:  798:      gainCard(choice2, state, 0, currentPlayer);
+        -:  799:
+        -:  800:      //discard card from hand
+    #####:  801:      discardCard(handPos, currentPlayer, state, 0);
+        -:  802:
+        -:  803:      //discard trashed card
+    #####:  804:      for (i = 0; i < state->handCount[currentPlayer]; i++)
+        -:  805:	{
+    #####:  806:	  if (state->hand[currentPlayer][i] == j)
+        -:  807:	    {
+    #####:  808:	      discardCard(i, currentPlayer, state, 0);			
+    #####:  809:	      break;
+        -:  810:	    }
+        -:  811:	}
+        -:  812:
+        -:  813:
+    #####:  814:      return 0;
+        -:  815:		
+        -:  816:    case smithy:
+        -:  817:
+        2:  818:		result = playSmithy(currentPlayer, state, handPos);
+        -:  819:	
+        2:  820:		return result;
+        -:  821:		
+        -:  822:    case village:
+        -:  823:      //+1 Card
+    #####:  824:      drawCard(currentPlayer, state);
+        -:  825:			
+        -:  826:      //+2 Actions
+    #####:  827:      state->numActions = state->numActions + 2;
+        -:  828:			
+        -:  829:      //discard played card from hand
+    #####:  830:      discardCard(handPos, currentPlayer, state, 0);
+    #####:  831:      return 0;
+        -:  832:		
+        -:  833:    case baron:
+    #####:  834:      state->numBuys++;//Increase buys by 1!
+    #####:  835:      if (choice1 > 0){//Boolean true or going to discard an estate
+    #####:  836:	int p = 0;//Iterator for hand!
+    #####:  837:	int card_not_discarded = 1;//Flag for discard set!
+    #####:  838:	while(card_not_discarded){
+    #####:  839:	  if (state->hand[currentPlayer][p] == estate){//Found an estate card!
+    #####:  840:	    state->coins += 4;//Add 4 coins to the amount of coins
+    #####:  841:	    state->discard[currentPlayer][state->discardCount[currentPlayer]] = state->hand[currentPlayer][p];
+    #####:  842:	    state->discardCount[currentPlayer]++;
+    #####:  843:	    for (;p < state->handCount[currentPlayer]; p++){
+    #####:  844:	      state->hand[currentPlayer][p] = state->hand[currentPlayer][p+1];
+        -:  845:	    }
+    #####:  846:	    state->hand[currentPlayer][state->handCount[currentPlayer]] = -1;
+    #####:  847:	    state->handCount[currentPlayer]--;
+    #####:  848:	    card_not_discarded = 0;//Exit the loop
+        -:  849:	  }
+    #####:  850:	  else if (p > state->handCount[currentPlayer]){
+        -:  851:	    if(DEBUG) {
+        -:  852:	      printf("No estate cards in your hand, invalid choice\n");
+        -:  853:	      printf("Must gain an estate if there are any\n");
+        -:  854:	    }
+    #####:  855:	    if (supplyCount(estate, state) > 0){
+    #####:  856:	      gainCard(estate, state, 0, currentPlayer);
+    #####:  857:	      state->supplyCount[estate]--;//Decrement estates
+    #####:  858:	      if (supplyCount(estate, state) == 0){
+    #####:  859:		isGameOver(state);
+        -:  860:	      }
+        -:  861:	    }
+    #####:  862:	    card_not_discarded = 0;//Exit the loop
+        -:  863:	  }
+        -:  864:			    
+        -:  865:	  else{
+    #####:  866:	    p++;//Next card
+        -:  867:	  }
+        -:  868:	}
+        -:  869:      }
+        -:  870:			    
+        -:  871:      else{
+    #####:  872:	if (supplyCount(estate, state) > 0){
+    #####:  873:	  gainCard(estate, state, 0, currentPlayer);//Gain an estate
+    #####:  874:	  state->supplyCount[estate]--;//Decrement Estates
+    #####:  875:	  if (supplyCount(estate, state) == 0){
+    #####:  876:	    isGameOver(state);
+        -:  877:	  }
+        -:  878:	}
+        -:  879:      }
+        -:  880:	    
+        -:  881:      
+    #####:  882:      return 0;
+        -:  883:		
+        -:  884:    case great_hall:
+        -:  885:      //+1 Card
+    #####:  886:      drawCard(currentPlayer, state);
+        -:  887:			
+        -:  888:      //+1 Actions
+    #####:  889:      state->numActions++;
+        -:  890:			
+        -:  891:      //discard card from hand
+    #####:  892:      discardCard(handPos, currentPlayer, state, 0);
+    #####:  893:      return 0;
+        -:  894:		
+        -:  895:    case minion:
+        -:  896:
+    #####:  897:		result = playMinion(state, currentPlayer, handPos, choice1, choice2);
+        -:  898:	
+    #####:  899:      return result;
+        -:  900:		
+        -:  901:    case steward:
+        -:  902:
+    #####:  903:		result = playSteward(state, currentPlayer, handPos, choice1, choice2, choice3);
+        -:  904:	
+    #####:  905:      return result;
+        -:  906:		
+        -:  907:    case tribute:
+    #####:  908:      if ((state->discardCount[nextPlayer] + state->deckCount[nextPlayer]) <= 1){
+    #####:  909:	if (state->deckCount[nextPlayer] > 0){
+    #####:  910:	  tributeRevealedCards[0] = state->deck[nextPlayer][state->deckCount[nextPlayer]-1];
+    #####:  911:	  state->deckCount[nextPlayer]--;
+        -:  912:	}
+    #####:  913:	else if (state->discardCount[nextPlayer] > 0){
+    #####:  914:	  tributeRevealedCards[0] = state->discard[nextPlayer][state->discardCount[nextPlayer]-1];
+    #####:  915:	  state->discardCount[nextPlayer]--;
+        -:  916:	}
+        -:  917:	else{
+        -:  918:	  //No Card to Reveal
+        -:  919:	  if (DEBUG){
+        -:  920:	    printf("No cards to reveal\n");
+        -:  921:	  }
+        -:  922:	}
+        -:  923:      }
+        -:  924:	    
+        -:  925:      else{
+    #####:  926:	if (state->deckCount[nextPlayer] == 0){
+    #####:  927:	  for (i = 0; i < state->discardCount[nextPlayer]; i++){
+    #####:  928:	    state->deck[nextPlayer][i] = state->discard[nextPlayer][i];//Move to deck
+    #####:  929:	    state->deckCount[nextPlayer]++;
+    #####:  930:	    state->discard[nextPlayer][i] = -1;
+    #####:  931:	    state->discardCount[nextPlayer]--;
+        -:  932:	  }
+        -:  933:			    
+    #####:  934:	  shuffle(nextPlayer,state);//Shuffle the deck
+        -:  935:	} 
+    #####:  936:	tributeRevealedCards[0] = state->deck[nextPlayer][state->deckCount[nextPlayer]-1];
+    #####:  937:	state->deck[nextPlayer][state->deckCount[nextPlayer]--] = -1;
+    #####:  938:	state->deckCount[nextPlayer]--;
+    #####:  939:	tributeRevealedCards[1] = state->deck[nextPlayer][state->deckCount[nextPlayer]-1];
+    #####:  940:	state->deck[nextPlayer][state->deckCount[nextPlayer]--] = -1;
+    #####:  941:	state->deckCount[nextPlayer]--;
+        -:  942:      }    
+        -:  943:		       
+    #####:  944:      if (tributeRevealedCards[0] == tributeRevealedCards[1]){//If we have a duplicate card, just drop one 
+    #####:  945:	state->playedCards[state->playedCardCount] = tributeRevealedCards[1];
+    #####:  946:	state->playedCardCount++;
+    #####:  947:	tributeRevealedCards[1] = -1;
+        -:  948:      }
+        -:  949:
+    #####:  950:      for (i = 0; i <= 2; i ++){
+    #####:  951:	if (tributeRevealedCards[i] == copper || tributeRevealedCards[i] == silver || tributeRevealedCards[i] == gold){//Treasure cards
+    #####:  952:	  state->coins += 2;
+        -:  953:	}
+        -:  954:		    
+    #####:  955:	else if (tributeRevealedCards[i] == estate || tributeRevealedCards[i] == duchy || tributeRevealedCards[i] == province || tributeRevealedCards[i] == gardens || tributeRevealedCards[i] == great_hall){//Victory Card Found
+    #####:  956:	  drawCard(currentPlayer, state);
+    #####:  957:	  drawCard(currentPlayer, state);
+        -:  958:	}
+        -:  959:	else{//Action Card
+    #####:  960:	  state->numActions = state->numActions + 2;
+        -:  961:	}
+        -:  962:      }
+        -:  963:	    
+    #####:  964:      return 0;
+        -:  965:		
+        -:  966:    case ambassador:
+    #####:  967:      j = 0;		//used to check if player has enough cards to discard
+        -:  968:
+    #####:  969:      if (choice2 > 2 || choice2 < 0)
+        -:  970:	{
+    #####:  971:	  return -1;				
+        -:  972:	}
+        -:  973:
+    #####:  974:      if (choice1 == handPos)
+        -:  975:	{
+    #####:  976:	  return -1;
+        -:  977:	}
+        -:  978:
+    #####:  979:      for (i = 0; i < state->handCount[currentPlayer]; i++)
+        -:  980:	{
+    #####:  981:	  if (i != handPos && i == state->hand[currentPlayer][choice1] && i != choice1)
+        -:  982:	    {
+    #####:  983:	      j++;
+        -:  984:	    }
+        -:  985:	}
+    #####:  986:      if (j < choice2)
+        -:  987:	{
+    #####:  988:	  return -1;				
+        -:  989:	}
+        -:  990:
+        -:  991:      if (DEBUG) 
+        -:  992:	printf("Player %d reveals card number: %d\n", currentPlayer, state->hand[currentPlayer][choice1]);
+        -:  993:
+        -:  994:      //increase supply count for choosen card by amount being discarded
+    #####:  995:      state->supplyCount[state->hand[currentPlayer][choice1]] += choice2;
+        -:  996:			
+        -:  997:      //each other player gains a copy of revealed card
+    #####:  998:      for (i = 0; i < state->numPlayers; i++)
+        -:  999:	{
+    #####: 1000:	  if (i != currentPlayer)
+        -: 1001:	    {
+    #####: 1002:	      gainCard(state->hand[currentPlayer][choice1], state, 0, i);
+        -: 1003:	    }
+        -: 1004:	}
+        -: 1005:
+        -: 1006:      //discard played card from hand
+    #####: 1007:      discardCard(handPos, currentPlayer, state, 0);			
+        -: 1008:
+        -: 1009:      //trash copies of cards returned to supply
+    #####: 1010:      for (j = 0; j < choice2; j++)
+        -: 1011:	{
+    #####: 1012:	  for (i = 0; i < state->handCount[currentPlayer]; i++)
+        -: 1013:	    {
+    #####: 1014:	      if (state->hand[currentPlayer][i] == state->hand[currentPlayer][choice1])
+        -: 1015:		{
+    #####: 1016:		  discardCard(i, currentPlayer, state, 1);
+    #####: 1017:		  break;
+        -: 1018:		}
+        -: 1019:	    }
+        -: 1020:	}			
+        -: 1021:
+    #####: 1022:      return 0;
+        -: 1023:		
+        -: 1024:    case cutpurse:
+        -: 1025:
+    #####: 1026:      updateCoins(currentPlayer, state, 2);
+    #####: 1027:      for (i = 0; i < state->numPlayers; i++)
+        -: 1028:	{
+    #####: 1029:	  if (i != currentPlayer)
+        -: 1030:	    {
+    #####: 1031:	      for (j = 0; j < state->handCount[i]; j++)
+        -: 1032:		{
+    #####: 1033:		  if (state->hand[i][j] == copper)
+        -: 1034:		    {
+    #####: 1035:		      discardCard(j, i, state, 0);
+    #####: 1036:		      break;
+        -: 1037:		    }
+    #####: 1038:		  if (j == state->handCount[i])
+        -: 1039:		    {
+    #####: 1040:		      for (k = 0; k < state->handCount[i]; k++)
+        -: 1041:			{
+        -: 1042:			  if (DEBUG)
+        -: 1043:			    printf("Player %d reveals card number %d\n", i, state->hand[i][k]);
+        -: 1044:			}	
+    #####: 1045:		      break;
+        -: 1046:		    }		
+        -: 1047:		}
+        -: 1048:					
+        -: 1049:	    }
+        -: 1050:				
+        -: 1051:	}				
+        -: 1052:
+        -: 1053:      //discard played card from hand
+    #####: 1054:      discardCard(handPos, currentPlayer, state, 0);			
+        -: 1055:
+    #####: 1056:      return 0;
+        -: 1057:
+        -: 1058:		
+        -: 1059:    case embargo: 
+        -: 1060:      //+2 Coins
+    #####: 1061:      state->coins = state->coins + 2;
+        -: 1062:			
+        -: 1063:      //see if selected pile is in play
+    #####: 1064:      if ( state->supplyCount[choice1] == -1 )
+        -: 1065:	{
+    #####: 1066:	  return -1;
+        -: 1067:	}
+        -: 1068:			
+        -: 1069:      //add embargo token to selected supply pile
+    #####: 1070:      state->embargoTokens[choice1]++;
+        -: 1071:			
+        -: 1072:      //trash card
+    #####: 1073:      discardCard(handPos, currentPlayer, state, 1);		
+    #####: 1074:      return 0;
+        -: 1075:		
+        -: 1076:    case outpost:
+        -: 1077:      //set outpost flag
+    #####: 1078:      state->outpostPlayed++;
+        -: 1079:			
+        -: 1080:      //discard card
+    #####: 1081:      discardCard(handPos, currentPlayer, state, 0);
+    #####: 1082:      return 0;
+        -: 1083:		
+        -: 1084:    case salvager:
+        -: 1085:      //+1 buy
+    #####: 1086:      state->numBuys++;
+        -: 1087:			
+    #####: 1088:      if (choice1)
+        -: 1089:	{
+        -: 1090:	  //gain coins equal to trashed card
+    #####: 1091:	  state->coins = state->coins + getCost( handCard(choice1, state) );
+        -: 1092:	  //trash card
+    #####: 1093:	  discardCard(choice1, currentPlayer, state, 1);	
+        -: 1094:	}
+        -: 1095:			
+        -: 1096:      //discard card
+    #####: 1097:      discardCard(handPos, currentPlayer, state, 0);
+    #####: 1098:      return 0;
+        -: 1099:		
+        -: 1100:    case sea_hag:
+        -: 1101:
+    #####: 1102:		result = playSeaHag(currentPlayer, state);
+        -: 1103:	
+    #####: 1104:		return result;
+        -: 1105:		
+        -: 1106:    case treasure_map:
+        -: 1107:      //search hand for another treasure_map
+    #####: 1108:      index = -1;
+    #####: 1109:      for (i = 0; i < state->handCount[currentPlayer]; i++)
+        -: 1110:	{
+    #####: 1111:	  if (state->hand[currentPlayer][i] == treasure_map && i != handPos)
+        -: 1112:	    {
+    #####: 1113:	      index = i;
+    #####: 1114:	      break;
+        -: 1115:	    }
+        -: 1116:	}
+    #####: 1117:      if (index > -1)
+        -: 1118:	{
+        -: 1119:	  //trash both treasure cards
+    #####: 1120:	  discardCard(handPos, currentPlayer, state, 1);
+    #####: 1121:	  discardCard(index, currentPlayer, state, 1);
+        -: 1122:
+        -: 1123:	  //gain 4 Gold cards
+    #####: 1124:	  for (i = 0; i < 4; i++)
+        -: 1125:	    {
+    #####: 1126:	      gainCard(gold, state, 1, currentPlayer);
+        -: 1127:	    }
+        -: 1128:				
+        -: 1129:	  //return success
+    #####: 1130:	  return 1;
+        -: 1131:	}
+        -: 1132:			
+        -: 1133:      //no second treasure_map found in hand
+    #####: 1134:      return -1;
+        -: 1135:    }
+        -: 1136:	
+    #####: 1137:  return -1;
+        -: 1138:}
+        -: 1139:
+      120: 1140:int discardCard(int handPos, int currentPlayer, struct gameState *state, int trashFlag)
+        -: 1141:{
+        -: 1142:	
+        -: 1143:  //if card is not trashed, added to Played pile 
+      120: 1144:  if (trashFlag < 1)
+        -: 1145:    {
+        -: 1146:      //add card to played pile
+      113: 1147:      state->playedCards[state->playedCardCount] = state->hand[currentPlayer][handPos]; 
+      113: 1148:      state->playedCardCount++;
+        -: 1149:    }
+        -: 1150:	
+        -: 1151:  //set played card to -1
+      120: 1152:  state->hand[currentPlayer][handPos] = -1;
+        -: 1153:	
+        -: 1154:  //remove card from player's hand
+      120: 1155:  if ( handPos == (state->handCount[currentPlayer] - 1) ) 	//last card in hand array is played
+        -: 1156:    {
+        -: 1157:      //reduce number of cards in hand
+        8: 1158:      state->handCount[currentPlayer]--;
+        -: 1159:    }
+      112: 1160:  else if ( state->handCount[currentPlayer] == 1 ) //only one card in hand
+        -: 1161:    {
+        -: 1162:      //reduce number of cards in hand
+    #####: 1163:      state->handCount[currentPlayer]--;
+        -: 1164:    }
+        -: 1165:  else 	
+        -: 1166:    {
+        -: 1167:      //replace discarded card with last card in hand
+      112: 1168:      state->hand[currentPlayer][handPos] = state->hand[currentPlayer][ (state->handCount[currentPlayer] - 1)];
+        -: 1169:      //set last card to -1
+      112: 1170:      state->hand[currentPlayer][state->handCount[currentPlayer] - 1] = -1;
+        -: 1171:      //reduce number of cards in hand
+      112: 1172:      state->handCount[currentPlayer]--;
+        -: 1173:    }
+        -: 1174:	
+      120: 1175:  return 0;
+        -: 1176:}
+        -: 1177:
+       37: 1178:int gainCard(int supplyPos, struct gameState *state, int toFlag, int player)
+        -: 1179:{
+        -: 1180:  //Note: supplyPos is enum of choosen card
+        -: 1181:	
+        -: 1182:  //check if supply pile is empty (0) or card is not used in game (-1)
+       37: 1183:  if ( supplyCount(supplyPos, state) < 1 )
+        -: 1184:    {
+        2: 1185:      return -1;
+        -: 1186:    }
+        -: 1187:	
+        -: 1188:  //added card for [whoseTurn] current player:
+        -: 1189:  // toFlag = 0 : add to discard
+        -: 1190:  // toFlag = 1 : add to deck
+        -: 1191:  // toFlag = 2 : add to hand
+        -: 1192:
+       35: 1193:  if (toFlag == 1)
+        -: 1194:    {
+        1: 1195:      state->deck[ player ][ state->deckCount[player] ] = supplyPos;
+        1: 1196:      state->deckCount[player]++;
+        -: 1197:    }
+       34: 1198:  else if (toFlag == 2)
+        -: 1199:    {
+        1: 1200:      state->hand[ player ][ state->handCount[player] ] = supplyPos;
+        1: 1201:      state->handCount[player]++;
+        -: 1202:    }
+        -: 1203:  else
+        -: 1204:    {
+       33: 1205:      state->discard[player][ state->discardCount[player] ] = supplyPos;
+       33: 1206:      state->discardCount[player]++;
+        -: 1207:    }
+        -: 1208:	
+        -: 1209:  //decrease number in supply pile
+       35: 1210:  state->supplyCount[supplyPos]--;
+        -: 1211:	 
+       35: 1212:  return 0;
+        -: 1213:}
+        -: 1214:
+      150: 1215:int updateCoins(int player, struct gameState *state, int bonus)
+        -: 1216:{
+        -: 1217:  int i;
+        -: 1218:	
+        -: 1219:  //reset coin count
+      150: 1220:  state->coins = 0;
+        -: 1221:
+        -: 1222:  //add coins for each Treasure card in player's hand
+      914: 1223:  for (i = 0; i < state->handCount[player]; i++)
+        -: 1224:    {
+      764: 1225:      if (state->hand[player][i] == copper)
+        -: 1226:	{
+      557: 1227:	  state->coins += 1;
+        -: 1228:	}
+      207: 1229:      else if (state->hand[player][i] == silver)
+        -: 1230:	{
+       41: 1231:	  state->coins += 2;
+        -: 1232:	}
+      166: 1233:      else if (state->hand[player][i] == gold)
+        -: 1234:	{
+       18: 1235:	  state->coins += 3;
+        -: 1236:	}	
+        -: 1237:    }	
+        -: 1238:
+        -: 1239:  //add bonus
+      150: 1240:  state->coins += bonus;
+        -: 1241:
+      150: 1242:  return 0;
+        -: 1243:}
+        -: 1244:
+      108: 1245:int playAdventurer(int z, struct gameState *state, int currentPlayer, int cardDrawn, int *temphand){
+        -: 1246:	
+      108: 1247:	int drawntreasure=0;
+        -: 1248:	
+    16119: 1249:	while(drawntreasure<2){
+        -: 1250:		
+    15903: 1251:		if (state->deckCount[currentPlayer] <1){//if the deck is empty we need to shuffle discard and add to deck
+        -: 1252:		
+        1: 1253:			shuffle(currentPlayer, state);
+        -: 1254:		
+        -: 1255:		}
+        -: 1256:	
+    15903: 1257:		drawCard(currentPlayer, state);
+    15903: 1258:		cardDrawn = state->hand[currentPlayer][state->handCount[currentPlayer]-1];//top card of hand is most recently drawn card.
+        -: 1259:		
+    15903: 1260:		if (cardDrawn == copper || cardDrawn == silver || cardDrawn == gold){
+        -: 1261:		
+      216: 1262:			drawntreasure++;
+        -: 1263:		
+        -: 1264:		}else{
+        -: 1265:		
+    15687: 1266:			temphand[z]=cardDrawn;
+    15687: 1267:			state->handCount[currentPlayer]--; //this should just remove the top card (the most recently drawn one).
+    15687: 1268:			z++;
+        -: 1269:		
+        -: 1270:		}
+        -: 1271:	}
+        -: 1272:	
+    15903: 1273:	while(z-1>=0){
+        -: 1274:		
+    15687: 1275:		state->discard[currentPlayer][state->discardCount[currentPlayer]++]=temphand[z-1]; // discard all cards in play that have been drawn
+    15687: 1276:		z=z-1;
+        -: 1277:	
+        -: 1278:	}
+        -: 1279:
+      108: 1280:	return 0;
+        -: 1281:}
+        -: 1282:
+        3: 1283:int playSmithy(int currentPlayer, struct gameState *state, int handPos){
+        -: 1284:	
+        -: 1285:	int i;
+        -: 1286:	
+        -: 1287:	//+3 Cards
+        9: 1288:	for (i = 0; i < 2; i++)//creating bug by running loop twice instead of three times
+        -: 1289:	{
+        6: 1290:		drawCard(currentPlayer, state);
+        -: 1291:	}
+        -: 1292:
+        -: 1293:	//discard card from hand
+        3: 1294:	discardCard(handPos, currentPlayer, state, 0);
+        -: 1295:	
+        3: 1296:	return 0;
+        -: 1297:}
+        -: 1298:
+      101: 1299:int playSeaHag(int currentPlayer, struct gameState *state){
+        -: 1300:	
+        -: 1301:	int i;
+        -: 1302:	
+      402: 1303:	for (i = 0; i < state->numPlayers; i++){
+        -: 1304:		
+      301: 1305:		if (i == currentPlayer){//creating bug in SeaHag by changing logic operator from "!=" to "=="
+        -: 1306:		
+      101: 1307:			state->discard[i][state->discardCount[i]] = state->deck[i][state->deckCount[i]--];
+      101: 1308:			state->deckCount[i]--;
+      101: 1309:			state->discardCount[i]++;
+      101: 1310:			state->deck[i][state->deckCount[i]--] = curse;//Top card now a curse
+        -: 1311:	
+        -: 1312:		}
+        -: 1313:	}
+        -: 1314:	
+      101: 1315:	return 0;
+        -: 1316:}
+        -: 1317:
+    #####: 1318:int playMinion(struct gameState *state, int currentPlayer, int handPos, int choice1, int choice2){
+        -: 1319:	
+        -: 1320:	int i;
+        -: 1321:	int j;
+        -: 1322:	
+        -: 1323:	//+1 action
+    #####: 1324:	state->numActions++;
+        -: 1325:	
+        -: 1326:	//discard card from hand
+    #####: 1327:	discardCard(handPos, currentPlayer, state, 0);
+        -: 1328:			
+    #####: 1329:	if (choice1)//+2 coins
+        -: 1330:	{
+    #####: 1331:		state->coins = state->coins + 2;
+        -: 1332:	}		
+    #####: 1333:	else if (choice2)//discard hand, redraw 4, other players with 5+ cards discard hand and draw 4
+        -: 1334:	{
+        -: 1335:		
+        -: 1336:		//discard hand
+    #####: 1337:		while(numHandCards(state) > 0){
+    #####: 1338:			discardCard(handPos, currentPlayer, state, 0);
+        -: 1339:		}
+        -: 1340:				
+        -: 1341:		//draw 4
+    #####: 1342:		for (i = 0; i < 4; i++){
+    #####: 1343:			drawCard(currentPlayer, state);
+        -: 1344:		}
+        -: 1345:				
+        -: 1346:		//other players discard hand and redraw if hand size > 4
+    #####: 1347:		for (i = 0; i < state->numPlayers; i++){
+        -: 1348:			
+    #####: 1349:			if(i != currentPlayer){
+        -: 1350:				
+    #####: 1351:				if(state->handCount[i] > 4){
+        -: 1352:					//discard hand
+    #####: 1353:					while( state->handCount[i] > 0 ){
+    #####: 1354:						discardCard(handPos, i, state, 0);
+        -: 1355:					}
+        -: 1356:							
+        -: 1357:					//draw 4
+    #####: 1358:					for(j = 0; j < 4; j++){
+    #####: 1359:						drawCard(i, state);
+        -: 1360:					}
+        -: 1361:				}
+        -: 1362:			}
+        -: 1363:		}
+        -: 1364:				
+        -: 1365:	}
+        -: 1366:	
+    #####: 1367:	return 0;
+        -: 1368:}
+        -: 1369:
+        3: 1370:int playSteward(struct gameState *state, int currentPlayer, int handPos, int choice1, int choice2, int choice3){
+        -: 1371:	
+        3: 1372:	if(choice1 == 1)
+        -: 1373:	{
+        -: 1374:		//+2 cards
+        1: 1375:		drawCard(currentPlayer, state);
+        1: 1376:		drawCard(currentPlayer, state);
+        -: 1377:		
+        2: 1378:	}else if (choice1 == 1){//creating bug in steward by switching checked value from 2 to 1, now option two will always execute the else part of the statement and operate like option 3
+        -: 1379:		//+2 coins
+    #####: 1380:		state->coins = state->coins + 2;
+        -: 1381:	}else{
+        -: 1382:		//trash 2 cards in hand
+        2: 1383:		discardCard(choice2, currentPlayer, state, 1);
+        2: 1384:		discardCard(choice3, currentPlayer, state, 1);
+        -: 1385:	}
+        -: 1386:	
+        -: 1387:	//discard card from hand
+        3: 1388:	discardCard(handPos, currentPlayer, state, 0);
+        -: 1389:	
+        3: 1390:	return 0;
+        -: 1391:}
+        -: 1392://end of dominion.c
