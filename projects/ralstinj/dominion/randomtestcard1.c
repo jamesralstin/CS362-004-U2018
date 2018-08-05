@@ -81,8 +81,8 @@ int main(){
 			((char*)&testGame)[i] = floor(Random()*256);
 		
 		}
-		player = floor(Random()*2);
-		testGame.numPlayers = floor(Random()*MAX_PLAYERS);
+		testGame.numPlayers = floor(Random()*3+2);
+		player = floor(Random()*testGame.numPlayers);
 	
 		//For each player initialize a realistic game state
 		for(i = 0; i < testGame.numPlayers; i++){

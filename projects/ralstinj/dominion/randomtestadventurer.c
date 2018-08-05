@@ -1,5 +1,5 @@
 /* -----------------------------------------------------------------------
-* Title: randomtestcard1
+* Title: randomtestadventurer
 * Author: James Ralstin
 * Assignment: 4
 * Due Date: 08/05/2018
