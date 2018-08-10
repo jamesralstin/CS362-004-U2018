@@ -42,7 +42,7 @@ void testAdventurer(int player, struct gameState *G){
 	
 	memcpy(&preG, G, sizeof(struct gameState));
 	
-	r = playAdventurer(z, G, player, cardDrawn, tempHand);
+	r = doAdventurerEffect(z, G, player, cardDrawn, tempHand);
 	Assert(0, r, "==");
 
 	//Effects of adventurer on pre state

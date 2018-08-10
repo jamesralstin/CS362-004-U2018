@@ -41,7 +41,7 @@ void testSmithy(struct gameState *G, int player){
 	printf("\nDeck count before \"playSmithy\" %d\n",G->deckCount[player]);
 	printf("\nPlayed count before \"playSmithy\" %d (should be 1 due to initial remove and replace for smithy card)\n",G->playedCardCount);
 	
-	result = playSmithy(player, G, 4);
+	result = doSmithyEffect(4, player, G);
 	assert(result == 0);
 	
 	printf("\nExpected hand count after \"playSmithy\" is 7, actual hand count after \"playSmithy\" %d\n",G->handCount[player]);

@@ -36,7 +36,7 @@ void testSmithy(int player, struct gameState *G){
 	
 	memcpy(&preG, G, sizeof(struct gameState));
 	
-	r = playSmithy(player, G, 0);
+	r = doSmithyEffect(0, player, G);
 	Assert(0, r, "==");
 	
 	preG.handCount[player] = preG.handCount[player] + 2;
