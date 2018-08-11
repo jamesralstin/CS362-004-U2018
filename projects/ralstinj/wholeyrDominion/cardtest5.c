@@ -59,6 +59,9 @@ void testCouncilRoom(struct gameState *G, int player){
 	printf("\nExpected card value in last played card after \"doCouncilRoomEffect\" is %d, actual card value in last played card after \"doCouncilRoomEffect\" %d\n", council_room ,G->playedCards[1]);
 	Assert(council_room, G->playedCards[1], "==");
 	
+	printf("\nExpected number of buys for current player after \"doCouncilRoomEffect\" is 2, actual number of buys for current player after \"doCouncilRoomEffect\" %d\n", G->numBuys);
+	Assert(2, G->numBuys, "==");
+	
 	printf("\nVerifying no change to supply counts after \"doCouncilRoomEffect\"\n");
 	
 	for(i = 0; i < 27; i++){
