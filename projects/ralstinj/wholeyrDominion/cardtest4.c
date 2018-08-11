@@ -24,16 +24,15 @@
 #include <assert.h>
 
 void testAdventurer(struct gameState *G){
-	
-	int tempHand[MAX_HAND];
-	int tempCount = 0, cardDrawn = 0, preTreasureCount = 0, postTreasureCount = 0;
+
+	int preTreasureCount = 0, postTreasureCount = 0;
 	struct gameState prePlay;
 	int result, i;
 	
 	  
 	memcpy(&prePlay, G, sizeof(struct gameState));
 	  
-	result = playAdventurer(tempCount, G, 0, cardDrawn, tempHand);
+	result = doAdventurerEffect(0, G);
 	assert(result == 0);
 	
 	printf("|---------------------------------CARD TEST 4.1: General post state after played adventurer card---------------------------------|\n\n");
@@ -85,7 +84,7 @@ void testAdventurer(struct gameState *G){
 	
 	memcpy(&prePlay, G, sizeof(struct gameState));
 	
-	result = playAdventurer(tempCount, G, 0, cardDrawn, tempHand);
+	result = doAdventurerEffect(0, G);
 	assert(result == 0);
 	
 	preTreasureCount = 0;
